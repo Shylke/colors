@@ -35,11 +35,13 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/100x100/f35757/f35757)
 
-**Crude Salmon** (#F3785C)
+**Crude Salmon** (#EB6161)
+
+![1](https://dummyimage.com/100x100/eb6161/eb6161)
+
+**Salmon** (#F3785C)
 
 ![1](https://dummyimage.com/100x100/f3785c/f3785c)
-
-**Salmon** (
 
 ### Future Colors
 
