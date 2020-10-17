@@ -106,6 +106,16 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ## Green Toned
 
+**Lime** (#C0FF37)
+
+![1](https://dummyimage.com/130x130/c0ff37/c0ff37)
+
+**Booger Green** (#6BE05F)
+
+![1](https://dummyimage.com/130x130/6be05f/6be05f)
+
+
+
 
 
 
