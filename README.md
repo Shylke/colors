@@ -2,7 +2,7 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **87** different colors listed.
 
-## Listed Colors
+## Red Toned
 **Maroon** (#800000)
 
 ![1](https://dummyimage.com/100x100/800000/800000) 
@@ -33,17 +33,37 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 **Red** (#F35757)
 
-![1](https://dummyimage.com/100x100/f35757/f35757)
+![1](https://dummyimage.com/150x150/f35757/f35757)
 
 **Crude Salmon** (#EB6161)
 
-![1](https://dummyimage.com/100x100/eb6161/eb6161)
+![1](https://dummyimage.com/150x150/eb6161/eb6161)
 
 **Salmon** (#F3785C)
 
-![1](https://dummyimage.com/100x100/f3785c/f3785c)
+![1](https://dummyimage.com/150x150/f3785c/f3785c)
 
-### Future Colors
+## Orange Toned
+
+**Medium Vermillion** (#D9603B)
+
+![1](https://dummyimage.com/150x150/d9603b/d960b3)
+
+**Orange** (#F58E50)
+
+![1](https://dummyimage.com/150x150/f58e50/f58e50)
+
+**Pumpkin** (#FF812F)
+
+![1](https://dummyimage.com/150x150/ff812f/ff812f)
+
+**Tangerine** (#FFB44E)
+
+![1](https://dummyimage.com/150x150/ffb44e/ffb44e)
+
+
+
+## Future Colors
 
 (The color names listed here aren't the names you'll see once they'll be added.)
 
