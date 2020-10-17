@@ -2,7 +2,8 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **87** different colors listed.
 
-(Red Toned - 10, Orange Toned - 7)
+(Red Toned - 10, Orange Toned - 7, Yellow Toned - 6)
+
 
 ## Red Toned
 **Maroon** (#800000)
@@ -52,15 +53,15 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/d9603b/d9603b)
 
-**Fire Energy** (#FF3700)
+**Orange** (#FF3700)
 
-![1](https://dummyimage.com/100x100/ff3700/ff3700)
+![1](https://dummyimage.com/130x130/ff3700/ff3700)
 
-**Light Orange** (#F58E50)
+**Light Porcelain** (#F58E50)
 
 ![1](https://dummyimage.com/130x130/f58e50/f58e50)
 
-**Orange** (#FC7500)
+**Light Orange** (#FC7500)
 
 ![1](https://dummyimage.com/130x130/fc7500/fc7500)
 
@@ -77,15 +78,33 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 ![1](https://dummyimage.com/130x130/ffb44e/ffb44e)
 
 
+## Yellow Toned
 
-## Future Colors
+**Gold** (#FFBC2C)
 
-(The color names listed here aren't the names you'll see once they'll be added.)
+![1](https://dummyimage.com/130x130/ffbc2c/ffbc2c)
 
-**Fire Energy** (#FF3700)
+**Mustard** (#F7D937)
 
-![1](https://dummyimage.com/100x100/ff3700/ff3700)
+![1](https://dummyimage.com/130x130/f7d937/f7d937)
 
+**Yellow** (#FFFF4A)
+
+![1](https://dummyimage.com/130x130/ffff4a/ffff4a)
+
+**Minion Yellow** (#F5E050)
+
+![1](https://dummyimage.com/130x130/f5e050/f5e050)
+
+**Lemon** (#FFF581)
+
+![1](https://dummyimage.com/130x130/fff581/fff581)
+
+**Primrose** (#E9EB7B)
+
+![1](https://dummyimage.com/130x130/e9eb7b/e9eb7b)
+
+## Green Toned
 
 
 
