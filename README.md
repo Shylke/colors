@@ -53,13 +53,13 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/d9603b/d9603b)
 
-**Orange** (#FF3700)
-
-![1](https://dummyimage.com/130x130/ff3700/ff3700)
-
 **Light Porcelain** (#F58E50)
 
 ![1](https://dummyimage.com/130x130/f58e50/f58e50)
+
+**Orange** (#FF3700)
+
+![1](https://dummyimage.com/130x130/ff3700/ff3700)
 
 **Light Orange** (#FC7500)
 
@@ -88,13 +88,13 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/f7d937/f7d937)
 
-**Yellow** (#FFFF4A)
-
-![1](https://dummyimage.com/130x130/ffff4a/ffff4a)
-
 **Minion Yellow** (#F5E050)
 
 ![1](https://dummyimage.com/130x130/f5e050/f5e050)
+
+**Yellow** (#FFFF4A)
+
+![1](https://dummyimage.com/130x130/ffff4a/ffff4a)
 
 **Lemon** (#FFF581)
 
