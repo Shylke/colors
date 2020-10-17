@@ -15,10 +15,25 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/100x100/ff0000/ff0000)
 
+**Watermelon** (#FF092A)
+
+![1](https://dummyimage.com/100x100/e34234/e34234)
+
 **Vermillion** (#E34234)
 
 ![1](https://dummyimage.com/100x100/e34234/e34234)
 
+**Crimson** (#D14141)
+
+![1](https://dummyimage.com/100x100/d14141/d14141)
+
+**Amaranth** (#E03F54)
+
+![1](https://dummyimage.com/100x100/e03f54/e03f54)
+
+**Red** (#F35757)
+
+![1](https://dummyimage.com/100x100/f35757/f35757)
 
 ### Future Colors
 
@@ -27,7 +42,6 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 **Fire Energy** (#FF3700)
 
 ![1](https://dummyimage.com/100x100/ff3700/ff3700)
-
 
 **Summer Frenzy** (#FC7500)
 
