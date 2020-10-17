@@ -2,8 +2,9 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **86** different colors listed.
 
-
-## Future Colors
+## Listed Colors
+Djdjd
+### Future Colors
 
 (The color names listed here aren't the names you'll see once they'll be added.)
 
