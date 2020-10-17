@@ -17,7 +17,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 **Watermelon** (#FF092A)
 
-![1](https://dummyimage.com/100x100/e34234/e34234)
+![1](https://dummyimage.com/100x100/ff092a/ff092a)
 
 **Vermillion** (#E34234)
 
@@ -34,6 +34,12 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 **Red** (#F35757)
 
 ![1](https://dummyimage.com/100x100/f35757/f35757)
+
+**Crude Salmon** (#F3785C)
+
+![1](https://dummyimage.com/100x100/f3785c/f3785c)
+
+**Salmon** (
 
 ### Future Colors
 
