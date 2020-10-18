@@ -6,13 +6,13 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ## Red Toned
 
-**Scarlet** (#7B1C22)
-
-![1](https://dummyimage.com/130x130/7b1c22/7b1c22)
-
 **Bad Blood** (#530E0F) <!-- L Color -->
 
 ![1](https://dummyimage.com/130x130/530e0f/530e0f) 
+
+**Scarlet** (#7B1C22)
+
+![1](https://dummyimage.com/130x130/7b1c22/7b1c22)
 
 **Maroon** (#800000) (#800101) <!-- H Color -->
 
@@ -150,9 +150,10 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/92ff86/92ff86)
 
-**Green** (#94FD24)
+**Green** (#94FD24) <!-- SH's Color-->
 
 ![1](https://dummyimage.com/130x130/94fd24/94fd24)
+
 **Electric Green** (#00FF00)
 
 ![1](https://dummyimage.com/130x130/00ff00/00ff00)
