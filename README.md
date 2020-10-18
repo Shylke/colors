@@ -2,7 +2,7 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **87** different colors listed.
 
-(Red Toned - 10, Orange Toned - 7, Yellow Toned - 6)
+(Red Toned - 10, Orange Toned - 7, Yellow Toned - 6, Green Toned - 2)
 
 
 ## Red Toned
@@ -88,11 +88,15 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/f7d937/f7d937)
 
+**Yellow** (#FFEE00)
+
+![1](https://dummyimage.com/130x130/ffee00/ffee00)
+
 **Minion Yellow** (#F5E050)
 
 ![1](https://dummyimage.com/130x130/f5e050/f5e050)
 
-**Yellow** (#FFFF4A)
+**Light Yellow** (#FFFF4A)
 
 ![1](https://dummyimage.com/130x130/ffff4a/ffff4a)
 
@@ -109,6 +113,10 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 **Lime** (#C0FF37)
 
 ![1](https://dummyimage.com/130x130/c0ff37/c0ff37)
+
+**Bitter Lemon** (#BCFC00)
+
+![1](https://dummyimage.com/130x130/bcfc00/bcfc00)
 
 **Booger Green** (#6BE05F)
 
