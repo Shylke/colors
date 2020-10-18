@@ -2,7 +2,7 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **87** different colors listed.
 
-(Red Toned - 10, Orange Toned - 7, Yellow Toned - 6, Green Toned - 2)
+(Red Toned - 10, Orange Toned - 8, Yellow Toned - 8, Green Toned - 3)
 
 
 ## Red Toned
@@ -57,11 +57,11 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/f58e50/f58e50)
 
-**Orange** (#FF3700)
+**Red Orange** (#FF3700)
 
 ![1](https://dummyimage.com/130x130/ff3700/ff3700)
 
-**Light Orange** (#FC7500)
+**Orange** (#FC7500)
 
 ![1](https://dummyimage.com/130x130/fc7500/fc7500)
 
@@ -69,13 +69,17 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/ff812f/ff812f)
 
-**Sunbeam** (#FD9418)
+**Light Orange** (#FD9418)
 
 ![1](https://dummyimage.com/130x130/fd9418/fd9418)
 
 **Tangerine** (#FFB44E)
 
 ![1](https://dummyimage.com/130x130/ffb44e/ffb44e)
+
+**Honey Topaz** (#F6C57F)
+
+![1](https://dummyimage.com/130x130/f6c57f/f6c57f)
 
 
 ## Yellow Toned
@@ -88,19 +92,23 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/f7d937/f7d937)
 
-**Yellow** (#FFEE00)
-
-![1](https://dummyimage.com/130x130/ffee00/ffee00)
-
 **Minion Yellow** (#F5E050)
 
 ![1](https://dummyimage.com/130x130/f5e050/f5e050)
+
+**Yellow** (#FFEE00)
+
+![1](https://dummyimage.com/130x130/ffee00/ffee00)
 
 **Light Yellow** (#FFFF4A)
 
 ![1](https://dummyimage.com/130x130/ffff4a/ffff4a)
 
-**Lemon** (#FFF581)
+**Lemon #1** (#FFFD82)
+
+![1](https://dummyimage.com/130x130/fffd82/fffd82)
+
+**Lemon #2** (#FFF581)
 
 ![1](https://dummyimage.com/130x130/fff581/fff581)
 
