@@ -1,7 +1,8 @@
 # Colors
 
-Just a simple HTML site that helps me keep track of color hexes. Currently there are **87** different colors listed.
-(Red Toned - 13, Orange Toned - 8, Yellow Toned - 8, Green Toned - 12)
+Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
+
+(Red Toned - 13, Orange Toned - 8, Yellow Toned - 9, Green Toned - 13)
 
 ## Red Toned
 
@@ -95,6 +96,10 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/ffbc2c/ffbc2c)
 
+**Sunflower** (#F1C40F)
+
+![1](https://dummyimage.com/130x130/f1c40f/f1c40f)
+
 **Mustard** (#F7D937)
 
 ![1](https://dummyimage.com/130x130/f7d937/f7d937)
@@ -111,7 +116,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/ffff4a/ffff4a)
 
-**Lemon #1** (#FFFD82) (#FFF581)
+**Lemon** (#FFFD82) (#FFF581)
 
 ![1](https://dummyimage.com/130x130/fffd82/fffd82) ![1](https://dummyimage.com/130x130/fff581/fff581)
 
@@ -137,7 +142,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/7f943d/7f943d) ![1](https://dummyimage.com/130x130/8aa23e/8aa23e)
 
-**Green** (#8FC73E)
+**Dark Leaf** (#8FC73E)
 
 ![1](https://dummyimage.com/130x130/8fc73e/8fc73e)
 
@@ -145,6 +150,9 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/92ff86/92ff86)
 
+**Green** (#94FD24)
+
+![1](https://dummyimage.com/130x130/94fd24/94fd24)
 **Electric Green** (#00FF00)
 
 ![1](https://dummyimage.com/130x130/00ff00/00ff00)
