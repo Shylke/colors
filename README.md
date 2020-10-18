@@ -133,7 +133,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/aed161/aed161)
 
-**Sycamore** (#7F943D)
+**Sycamore** (#7F943D) (#8AA23E)
 
 ![1](https://dummyimage.com/130x130/7f943d/7f943d) ![1](https://dummyimage.com/130x130/8aa23e/8aa23e)
 
@@ -157,7 +157,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/47c767/47c767)
 
-**Peaceful Meadow** (#2ECC71)
+**Emerald** (#2ECC71)
 
 ![1](https://dummyimage.com/130x130/2ecc71/2ecc71)
 
