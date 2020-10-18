@@ -2,13 +2,22 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **87** different colors listed.
 
-(Red Toned - 10, Orange Toned - 8, Yellow Toned - 8, Green Toned - 3)
+(Red Toned - 13, Orange Toned - 8, Yellow Toned - 8, Green Toned - 3)
 
 
 ## Red Toned
-**Maroon** (#800000)
 
-![1](https://dummyimage.com/130x130/800000/800000) 
+**Scarlet** (#7B1C22)
+
+![1](https://dummyimage.com/130x130/7b1c22/7b1c22)
+
+**Bad Blood** (#530E0F) <!-- L Color -->
+
+![1](https://dummyimage.com/130x130/530e0f/530e0f) 
+
+**Maroon** (#800000) (#800101) <!-- H Color -->
+
+![1](https://dummyimage.com/130x130/800000/800000) ![1](https://dummyimage.com/130x130/800101/800101)
 
 **Dark Red** (#CC0000)
 
@@ -18,7 +27,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/ff0000/ff0000)
 
-**Watermelon** (#FF092A)
+**Watermelon** (#FF092A) <!-- R Color -->
 
 ![1](https://dummyimage.com/130x130/ff092a/ff092a)
 
@@ -104,13 +113,9 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/ffff4a/ffff4a)
 
-**Lemon #1** (#FFFD82)
+**Lemon #1** (#FFFD82) (#FFF581)
 
-![1](https://dummyimage.com/130x130/fffd82/fffd82)
-
-**Lemon #2** (#FFF581)
-
-![1](https://dummyimage.com/130x130/fff581/fff581)
+![1](https://dummyimage.com/130x130/fffd82/fffd82) ![1](https://dummyimage.com/130x130/fff581/fff581)
 
 **Primrose** (#E9EB7B)
 
