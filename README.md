@@ -1,7 +1,7 @@
 # Colors
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **87** different colors listed.
-(Red Toned - 13, Orange Toned - 8, Yellow Toned - 8, Green Toned - 7)
+(Red Toned - 13, Orange Toned - 8, Yellow Toned - 8, Green Toned - 12)
 
 ## Red Toned
 
@@ -133,13 +133,9 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/aed161/aed161)
 
-**Olive Drab** (#8AA23E)
-
-![1](https://dummyimage.com/130x130/8aa23e/8aa23e)
-
 **Sycamore** (#7F943D)
 
-![1](https://dummyimage.com/130x130/7f943d/7f943d)
+![1](https://dummyimage.com/130x130/7f943d/7f943d) ![1](https://dummyimage.com/130x130/8aa23e/8aa23e)
 
 **Green** (#8FC73E)
 
@@ -161,8 +157,13 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/47c767/47c767)
 
+**Peaceful Meadow** (#2ECC71)
 
+![1](https://dummyimage.com/130x130/2ecc71/2ecc71)
 
+**Dark Green** (#0F9B3E)
+
+![1](https://dummyimage.com/130x130/0f9b3e/0f9b3e)
 
 
 
