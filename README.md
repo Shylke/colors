@@ -6,7 +6,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ## Red Toned
 
-**Bad Blood** (#530E0F) <!-- L Color -->
+**Bad Blood** (#530E0F) <!-- Grunge's Color -->
 
 ![1](https://dummyimage.com/130x130/530e0f/530e0f) 
 
@@ -14,7 +14,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/7b1c22/7b1c22)
 
-**Maroon** (#800000) (#800101) <!-- H Color -->
+**Maroon** (#800000) (#800101) <!-- Reverie's Color -->
 
 ![1](https://dummyimage.com/130x130/800000/800000) ![1](https://dummyimage.com/130x130/800101/800101)
 
@@ -26,7 +26,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/ff0000/ff0000)
 
-**Watermelon** (#FF092A) <!-- R Color -->
+**Watermelon** (#FF092A) <!-- Ace's Color -->
 
 ![1](https://dummyimage.com/130x130/ff092a/ff092a)
 
@@ -174,7 +174,38 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/0f9b3e/0f9b3e)
 
+## Light to Dark Toned
 
+**Pure White** (#FFFFFF)
 
+![1](https://dummyimage.com/130x130/ffffff/ffffff)
+
+**Shining Silver** (#F0F0F0)
+
+![1](https://dummyimage.com/130x130/f0f0f0/f0f0f0)
+
+**Light Grey** (#D2D2D2) <!--- Phantasma's Color --->
+
+![1](https://dummyimage.com/130x130/d2d2d2/d2d2d2)
+
+**Silver** (#BBC6CC)
+
+![1](https://dummyimage.com/130x130/bbc6cc/bbc6cc)
+
+**Grey** (#757575)
+
+![1](https://dummyimage.com/130x130/757575/757575)
+
+**Dark Grey** (#181818)
+
+![1](https://dummyimage.com/130x130/181818/181818) ![1](https://dummyimage.com/130x130/1f1f1f/1f1f1f)
+
+**Jet Black** (#101222) <!--- Scythe's Color --->
+
+![1](https://dummyimage.com/130x130/101222/101222)
+
+**Pure Black** (#000000) <!--- Moon's Color --->
+
+![1](https://dummyimage.com/130x130/000000/000000)
 
 
