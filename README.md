@@ -150,7 +150,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/92ff86/92ff86)
 
-**Green** (#94FD24) <!-- SH's Color-->
+**Green** (#94FD24) <!-- SH's Color -->
 
 ![1](https://dummyimage.com/130x130/94fd24/94fd24)
 
@@ -184,7 +184,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/f0f0f0/f0f0f0)
 
-**Light Grey** (#D2D2D2) <!--- Phantasma's Color --->
+**Light Grey** (#D2D2D2) <!-- Phantasma's Color -->
 
 ![1](https://dummyimage.com/130x130/d2d2d2/d2d2d2)
 
@@ -196,15 +196,19 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/757575/757575)
 
-**Dark Grey** (#181818)
+**Dark Grey** (#1F1F1F) <!-- Noemi's Color -->
 
-![1](https://dummyimage.com/130x130/181818/181818) ![1](https://dummyimage.com/130x130/1f1f1f/1f1f1f)
+![1](https://dummyimage.com/130x130/1f1f1f/1f1f1f)
 
-**Jet Black** (#101222) <!--- Scythe's Color --->
+**Coal** (#181818)
+
+![1](https://dummyimage.com/130x130/181818/181818)
+
+**Jet Black** (#101222) <!-- Scythe's Color -->
 
 ![1](https://dummyimage.com/130x130/101222/101222)
 
-**Pure Black** (#000000) <!--- Moon's Color --->
+**Pure Black** (#000000) <!-- Moon's Color -->
 
 ![1](https://dummyimage.com/130x130/000000/000000)
 
