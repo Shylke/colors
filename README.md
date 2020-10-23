@@ -2,7 +2,7 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
-(Red Toned - 13, Orange Toned - 8, Yellow Toned - 9, Green Toned - 13)
+(Red Toned - 13, Orange Toned - 8, Yellow Toned - 9, Green Toned - 13, Light to Dark Toned - 9)
 
 ## Red Toned
 
@@ -55,6 +55,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 ![1](https://dummyimage.com/130x130/f3785c/f3785c)
 
 
+
 ## Orange Toned
 
 **Medium Vermillion** (#D9603B)
@@ -90,6 +91,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 ![1](https://dummyimage.com/130x130/f6c57f/f6c57f)
 
 
+
 ## Yellow Toned
 
 **Gold** (#FFBC2C)
@@ -123,6 +125,8 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 **Primrose** (#E9EB7B)
 
 ![1](https://dummyimage.com/130x130/e9eb7b/e9eb7b)
+
+
 
 ## Green Toned
 
@@ -173,6 +177,8 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 **Dark Green** (#0F9B3E)
 
 ![1](https://dummyimage.com/130x130/0f9b3e/0f9b3e)
+
+
 
 ## Light to Dark Toned
 
