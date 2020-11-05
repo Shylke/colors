@@ -2,7 +2,7 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
-(Red Toned - 13, Orange Toned - 9, Yellow Toned - 9, Green Toned - 13, Brown Toned - 3, Light to Dark Toned - 9)
+(Red Toned - 13, Orange Toned - 9, Yellow Toned - 9, Green Toned - 13, Brown Toned - 6, Light to Dark Toned - 9)
 
 ## Red Toned
 
@@ -185,18 +185,30 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 
 ## Brown Toned
-
 **Ivory** (#EAE9BF) <!-- Zephyr's Color -->
 
 ![1](https://dummyimage.com/130x130/eae9bf/eae9bf)
 
 **Sand** (#D8AB51)
 
-![1](https://dummyimage.com/130x130/d8ab51/d8ab51)
+![1](https://dummyimage.com/130x130/d8ab51/d8ab51) 
+
+**Coffee** (#C0A371)
+
+![1](https://dummyimage.com/130x130/c0a371/c0a371)
+
+**Desert** (#c0836e)
+
+![1](https://dummyimage.com/130x130/C0836E/C0836E)
 
 **Chocolate** (#815235)
 
 ![1](https://dummyimage.com/130x130/815235/815235)
+
+**Burnt Bricks** (#7A3D44)
+
+![1](https://dummyimage.com/130x130/7a3d44/7a3d44)
+
 
 
 
