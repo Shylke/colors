@@ -189,15 +189,19 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/eae9bf/eae9bf)
 
-**Sand** (#D8AB51)
+**Beige** (#B0AC94)
 
-![1](https://dummyimage.com/130x130/d8ab51/d8ab51) 
+![1](https://dummyimage.com/130x130/b0ac94/b0ac94)
 
 **Coffee** (#C0A371)
 
 ![1](https://dummyimage.com/130x130/c0a371/c0a371)
 
-**Desert** (#c0836e)
+**Sand** (#D8AB51)
+
+![1](https://dummyimage.com/130x130/d8ab51/d8ab51) 
+
+**Desert** (#c0836E)
 
 ![1](https://dummyimage.com/130x130/C0836E/C0836E)
 
