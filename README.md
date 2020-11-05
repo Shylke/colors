@@ -2,7 +2,7 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
-(Red Toned - 13, Orange Toned - 8, Yellow Toned - 9, Green Toned - 13, Light to Dark Toned - 9)
+(Red Toned - 13, Orange Toned - 9, Yellow Toned - 9, Green Toned - 13, Light to Dark Toned - 9)
 
 ## Red Toned
 
@@ -70,13 +70,17 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/ff3700/ff3700)
 
-**Orange** (#FC7500)
+**Deep Orange** (#FF8F0D) <!-- Summer's Color -->
 
-![1](https://dummyimage.com/130x130/fc7500/fc7500)
+![1](https://dummyimage.com/130x130/ff6f0d/ff6f0d)
+
+**Orange** (#FC7500) 
+
+![1](https://dummyimage.com/130x130/fc7500/fc7500) 
 
 **Pumpkin** (#FF812F)
 
-![1](https://dummyimage.com/130x130/ff812f/ff812f)
+![1](https://dummyimage.com/130x130/ff812f/ff812f) 
 
 **Light Orange** (#FD9418)
 
@@ -118,9 +122,9 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/ffff4a/ffff4a)
 
-**Lemon** (#FFFD82) (#FFF581)
+**Lemon** (#FFFD82) (#FFF581) 
 
-![1](https://dummyimage.com/130x130/fffd82/fffd82) ![1](https://dummyimage.com/130x130/fff581/fff581)
+![1](https://dummyimage.com/130x130/fffd82/fffd82) ![1](https://dummyimage.com/130x130/fff581/fff581) 
 
 **Primrose** (#E9EB7B)
 
@@ -177,6 +181,14 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 **Dark Green** (#0F9B3E)
 
 ![1](https://dummyimage.com/130x130/0f9b3e/0f9b3e)
+
+
+
+## Brown Toned
+
+**Sand** (#D8AB51)
+
+![1](https://dummyimage.com/130x130/d8ab51/d8ab51)
 
 
 
