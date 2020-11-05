@@ -2,7 +2,7 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
-(Red Toned - 13, Orange Toned - 9, Yellow Toned - 9, Green Toned - 13, Brown Toned - 6, Light to Dark Toned - 9)
+(Red Toned - 13, Orange Toned - 9, Yellow Toned - 9, Green Toned - 13, Brown Toned - 7, Light to Dark Toned - 9)
 
 ## Red Toned
 
@@ -193,7 +193,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/b0ac94/b0ac94)
 
-**Coffee** (#C0A371)
+**Coffee** (#C0A371) <!-- Hallow's Color -->
 
 ![1](https://dummyimage.com/130x130/c0a371/c0a371)
 
@@ -208,6 +208,10 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 **Chocolate** (#815235)
 
 ![1](https://dummyimage.com/130x130/815235/815235)
+
+**Brown** (#532A00)
+
+![1](https://dummyimage.com/130x130/532a00/532a00)
 
 **Burnt Bricks** (#7A3D44)
 
