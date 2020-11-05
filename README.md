@@ -2,7 +2,7 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
-(Red Toned - 13, Orange Toned - 9, Yellow Toned - 9, Green Toned - 13, Brown Toned - 7, Light to Dark Toned - 9)
+(Red Toned - 13, Orange Toned - 9, Yellow Toned - 9, Green Toned - 13, Brown Toned - 11, Light to Dark Toned - 9)
 
 ## Red Toned
 
@@ -185,23 +185,23 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 
 ## Brown Toned
-**Ivory** (#EAE9BF) <!-- Zephyr's Color -->
 
-![1](https://dummyimage.com/130x130/eae9bf/eae9bf)
+**Sand** (#EAC6A6)
 
-**Beige** (#B0AC94)
+![1](https://dummyimage.com/130x130/eac6a6/eac6a6)
 
-![1](https://dummyimage.com/130x130/b0ac94/b0ac94)
+**Coffee** (#C7AE99)
+![1](https://dummyimage.com/130x130/c7ae99/c7ae99)
 
-**Coffee** (#C0A371) <!-- Hallow's Color -->
+**Cappucino** (#C0A371) <!-- Hallow's Color --> (#C7AE99)
 
 ![1](https://dummyimage.com/130x130/c0a371/c0a371)
 
-**Sand** (#D8AB51)
+**Desert** (#D8AB51)
 
 ![1](https://dummyimage.com/130x130/d8ab51/d8ab51) 
 
-**Desert** (#c0836E)
+**Desert Rose** (#c0836E)
 
 ![1](https://dummyimage.com/130x130/C0836E/C0836E)
 
@@ -216,6 +216,18 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 **Burnt Bricks** (#7A3D44)
 
 ![1](https://dummyimage.com/130x130/7a3d44/7a3d44)
+
+**Burnt Umber** (#290909)
+
+![1](https://dummyimage.com/130x130/290909/290909)
+
+**Beige** (#B0AC94)
+
+![1](https://dummyimage.com/130x130/b0ac94/b0ac94)
+
+**Ivory** (#EAE9BF) <!-- Zephyr's Color -->
+
+![1](https://dummyimage.com/130x130/eae9bf/eae9bf)
 
 
 
