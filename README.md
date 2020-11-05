@@ -191,9 +191,10 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 ![1](https://dummyimage.com/130x130/eac6a6/eac6a6)
 
 **Coffee** (#C7AE99)
+
 ![1](https://dummyimage.com/130x130/c7ae99/c7ae99)
 
-**Cappucino** (#C0A371) <!-- Hallow's Color --> (#C7AE99)
+**Cappucino** (#C0A371) <!-- Hallow's Color --> 
 
 ![1](https://dummyimage.com/130x130/c0a371/c0a371)
 
