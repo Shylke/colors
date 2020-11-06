@@ -2,7 +2,7 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
-(Red Toned - 13, Orange Toned - 9, Yellow Toned - 10, Green Toned - 13, Brown Toned - 11, Light to Dark Toned - 9)
+(Red Toned - 13, Orange Toned - 9, Yellow Toned - 10, Green Toned - 13, Brown Toned - 11, Light to Dark Toned - 11)
 
 ## Red Toned
 
@@ -132,7 +132,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 **Dark Primrose** (#C7C13D)
 
-![1](https://dummyimage.com/130x130/c7c13d/c7c13d) 
+![1](https://dummyimage.com/130x130/c7c13d/c7c13d) <!-- Topaz's Color -->
 
 
 
@@ -251,21 +251,25 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/d2d2d2/d2d2d2)
 
-**Silver** (#BBC6CC)
+**Silver** (#BBC6CC) 
 
-![1](https://dummyimage.com/130x130/bbc6cc/bbc6cc)
+![1](https://dummyimage.com/130x130/bbc6cc/bbc6cc) 
 
-**Grey** (#757575)
+**Metal** (#95A5A6) 
+
+![1](https://dummyimage.com/130x130/95a5a6/95a5a6) 
+
+**Grey** (#979C9F)
+
+![1](https://dummyimage.com/130x130/979c9f/979c9f)
+
+**Dark Grey** (#757575)
 
 ![1](https://dummyimage.com/130x130/757575/757575)
 
-**Dark Grey** (#1F1F1F) <!-- Noemi's Color -->
+**Coal** (#181818) (#1F1F1F) <!-- Noemi's Color -->
 
-![1](https://dummyimage.com/130x130/1f1f1f/1f1f1f)
-
-**Coal** (#181818)
-
-![1](https://dummyimage.com/130x130/181818/181818)
+![1](https://dummyimage.com/130x130/181818/181818) ![1](https://dummyimage.com/130x130/1f1f1f/1f1f1f)
 
 **Jet Black** (#101222) <!-- Scythe's Color -->
 
