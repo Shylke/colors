@@ -2,7 +2,7 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
-(Red Toned - 13, Orange Toned - 9, Yellow Toned - 10, Green Toned - 13, Brown Toned - 11, Light to Dark Toned - 11)
+(Red Toned - 13, Orange Toned - 9, Yellow Toned - 10, Green Toned - 13, Cyan Toned - 7, Brown Toned - 12, Light to Dark Toned - 11)
 
 ## Red Toned
 
@@ -188,7 +188,52 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 
 
+## Cyan Toned
+
+**Green Pearl** (#72EBAC)
+
+![1](https://dummyimage.com/130x130/72EBAC/72EBAC)
+
+**Teal** (#50B5A1)
+
+![1](https://dummyimage.com/130x130/50B5A1/50B5A1)
+
+**Dark Teal** (#5ABDA5)
+
+![1](https://dummyimage.com/130x130/5ABDA5/5ABDA5)
+
+**Torquoise** (#0CC1AD)
+
+![1](https://dummyimage.com/130x130/0CC1AD/0CC1AD)
+
+**Aquamarine** (#7FFFD4)
+
+![1](https://dummyimage.com/130x130/7FFFD4/7FFFD4)
+
+**Pond** (#D1DDFF)
+
+![1](https://dummyimage.com/130x130/D1DDFF/D1DDFF)
+
+**Cyan** (#54ECE1)
+
+![1](https://dummyimage.com/130x130/54ECE1/54ECE1)
+
+
+
+
+# Blue Toned
+
+**Water** (#C2E5F8)
+
+![1](https://dummyimage.com/130x130/54ECE1/54ECE1)
+
+
+
 ## Brown Toned
+
+**Nude** (#EBC8B2)
+
+![1](https://dummyimage.com/130x130/ebc8b2/ebc8b2)
 
 **Sand** (#EAC6A6)
 
