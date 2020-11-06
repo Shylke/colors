@@ -2,7 +2,7 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
-(Red Toned - 13, Orange Toned - 9, Yellow Toned - 10, Green Toned - 13, Cyan Toned - 7, Brown Toned - 12, Light to Dark Toned - 11)
+(Red Toned - 13, Orange Toned - 9, Yellow Toned - 10, Green Toned - 13, Cyan Toned - 9, Blue Toned - 2, Brown Toned - 12, Light to Dark Toned - 11)
 
 ## Red Toned
 
@@ -102,11 +102,11 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/ffbc2c/ffbc2c)
 
-**Sunflower** (#F1C40F)
+**Mustard** (#F1C40F)
 
 ![1](https://dummyimage.com/130x130/f1c40f/f1c40f)
 
-**Mustard** (#F7D937)
+**Sunflower** (#F7D937)
 
 ![1](https://dummyimage.com/130x130/f7d937/f7d937)
 
@@ -154,7 +154,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/7f943d/7f943d) ![1](https://dummyimage.com/130x130/8aa23e/8aa23e)
 
-**Dark Leaf** (#8FC73E)
+**Deep Leaf** (#8FC73E)
 
 ![1](https://dummyimage.com/130x130/8fc73e/8fc73e)
 
@@ -194,6 +194,10 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/72EBAC/72EBAC)
 
+**Green Sea** (#16A085)
+
+![1](https://dummyimage.com/130x130/16A085/16A085)
+
 **Teal** (#50B5A1)
 
 ![1](https://dummyimage.com/130x130/50B5A1/50B5A1)
@@ -206,26 +210,32 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/0CC1AD/0CC1AD)
 
-**Aquamarine** (#7FFFD4)
+**Dark Torquoise** (#08736F)
 
-![1](https://dummyimage.com/130x130/7FFFD4/7FFFD4)
+![1](https://dummyimage.com/130x130/08736f/08736f)
+
+**Aquamarine** (#7FFFD4) 
+
+![1](https://dummyimage.com/130x130/7FFFD4/7FFFD4) 
+
+**Cyan** (#54ECE1) 
+
+![1](https://dummyimage.com/130x130/54ECE1/54ECE1) 
+
+**Bright Cyan** (#07FFEB)
+
+![1](https://dummyimage.com/130x130/07ffeb/07ffeb)
+
+
+## Blue Toned
 
 **Pond** (#D1DDFF)
 
 ![1](https://dummyimage.com/130x130/D1DDFF/D1DDFF)
 
-**Cyan** (#54ECE1)
-
-![1](https://dummyimage.com/130x130/54ECE1/54ECE1)
-
-
-
-
-# Blue Toned
-
 **Water** (#C2E5F8)
 
-![1](https://dummyimage.com/130x130/54ECE1/54ECE1)
+![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
 
 
 
