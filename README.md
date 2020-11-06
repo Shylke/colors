@@ -2,7 +2,7 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
-(Red Toned - 13, Orange Toned - 10, Yellow Toned - 10, Green Toned - 13, Cyan Toned - 10, Blue Toned - 2, Brown Toned - 12, Light to Dark Toned - 11)
+(Red Toned - 13, Orange Toned - 10, Yellow Toned - 10, Green Toned - 13, Cyan Toned - 10, Blue Toned - 11, Brown Toned - 12, Light to Dark Toned - 11)
 
 ## Red Toned
 
@@ -245,7 +245,41 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
 
+**Sky Blue** (#53CCFF)
 
+![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
+
+**Cerulean** (#56BFF7)
+
+![1](https://dummyimage.com/130x130/56BFF7/56BFF7)
+
+**Atlas Blue** (#3AC1E9)
+
+![1](https://dummyimage.com/130x130/3AC1E9/3AC1E9)
+
+**Salty Sea Blue** (#2491B3)
+
+![1](https://dummyimage.com/130x130/2491B3/2491B3)
+
+**Metallic Blue** (#3182A0)
+
+![1](https://dummyimage.com/130x130/3182A0/3182A0)
+
+**Kashmir Blue** (#476E8E)
+
+![1](https://dummyimage.com/130x130/476E8E/476E8E)
+
+**Cobalt Blue** (#376CF3)
+
+![1](https://dummyimage.com/130x130/376CF3/376CF3)
+
+**Electric Blue** (#0000FF)
+
+![1](https://dummyimage.com/130x130/0000FF/0000FF)
+
+**Navy** (#000058)
+
+![1](https://dummyimage.com/130x130/000058/000058)
 
 ## Brown Toned
 
