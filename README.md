@@ -2,7 +2,7 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
-(Red Toned - 13, Orange Toned - 9, Yellow Toned - 9, Green Toned - 13, Brown Toned - 11, Light to Dark Toned - 9)
+(Red Toned - 13, Orange Toned - 9, Yellow Toned - 10, Green Toned - 13, Brown Toned - 11, Light to Dark Toned - 9)
 
 ## Red Toned
 
@@ -110,9 +110,9 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/f7d937/f7d937)
 
-**Minion Yellow** (#F5E050)
+**Minion Yellow** (#F5E050) 
 
-![1](https://dummyimage.com/130x130/f5e050/f5e050)
+![1](https://dummyimage.com/130x130/f5e050/f5e050) 
 
 **Yellow** (#FFEE00)
 
@@ -129,6 +129,10 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 **Primrose** (#E9EB7B)
 
 ![1](https://dummyimage.com/130x130/e9eb7b/e9eb7b)
+
+**Dark Primrose** (#C7C13D)
+
+![1](https://dummyimage.com/130x130/c7c13d/c7c13d) 
 
 
 
