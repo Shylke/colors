@@ -2,7 +2,7 @@
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
-(Red Toned - 13, Orange Toned - 9, Yellow Toned - 10, Green Toned - 13, Cyan Toned - 9, Blue Toned - 2, Brown Toned - 12, Light to Dark Toned - 11)
+(Red Toned - 13, Orange Toned - 10, Yellow Toned - 10, Green Toned - 13, Cyan Toned - 10, Blue Toned - 2, Brown Toned - 12, Light to Dark Toned - 11)
 
 ## Red Toned
 
@@ -70,6 +70,10 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/ff3700/ff3700)
 
+**Pumpkin** (#D35400)
+
+![1](https://dummyimage.com/130x130/D35400/D35400)
+
 **Deep Orange** (#FF8F0D) <!-- Summer's Color -->
 
 ![1](https://dummyimage.com/130x130/ff6f0d/ff6f0d)
@@ -78,7 +82,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/fc7500/fc7500) 
 
-**Pumpkin** (#FF812F)
+**Vixen Orange** (#FF812F)
 
 ![1](https://dummyimage.com/130x130/ff812f/ff812f) 
 
@@ -210,13 +214,17 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/0CC1AD/0CC1AD)
 
-**Dark Torquoise** (#08736F)
+**Dark Torquoise** (#08736F) <!-- K's Color -->
 
 ![1](https://dummyimage.com/130x130/08736f/08736f)
 
 **Aquamarine** (#7FFFD4) 
 
 ![1](https://dummyimage.com/130x130/7FFFD4/7FFFD4) 
+
+**Light Cyan** (#8FE8F8)
+
+![1](https://dummyimage.com/130x130/8fe8f8/8fe8f8) 
 
 **Cyan** (#54ECE1) 
 
