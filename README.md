@@ -235,6 +235,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 ![1](https://dummyimage.com/130x130/07ffeb/07ffeb)
 
 
+
 ## Blue Toned
 
 **Pond** (#D1DDFF)
@@ -251,13 +252,13 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 **Cerulean** (#56BFF7)
 
-![1](https://dummyimage.com/130x130/56BFF7/56BFF7)
+![1](https://dummyimage.com/130x130/56BFF7/56BFF7) 
 
 **Atlas Blue** (#3AC1E9) 
 
 ![1](https://dummyimage.com/130x130/3AC1E9/3AC1E9) 
 
-**Vivid Blue** (#1FA0FF)
+**Vivid Blue** (#1FA0FF) <!-- Starlight's Color -->
 
 ![1](https://dummyimage.com/130x130/1fa0ff/1fa0ff)
  
@@ -269,6 +270,9 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/3182A0/3182A0)
 
+**Dark Metallic Blue** (#006B88) <!-- C's Color -->
+![1](https://dummyimage.com/130x130/006b88/006b88)
+
 **Kashmir Blue** (#476E8E)
 
 ![1](https://dummyimage.com/130x130/476E8E/476E8E)
@@ -276,6 +280,10 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 **Cobalt Blue** (#376CF3)
 
 ![1](https://dummyimage.com/130x130/376CF3/376CF3)
+
+**Blue** (#0044EB)
+
+![1](https://dummyimage.com/130x130/0044eb/0044eb)
 
 **Electric Blue** (#0000FF) (#0000E1) <!-- G's Color -->
 
@@ -289,6 +297,9 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/000058/000058)
 
+**Light Cobalt Blue** (#79A8DA)
+
+![1](https://dummyimage.com/130x130/79a8da/79a8da)
 
 
 ## Brown Toned
