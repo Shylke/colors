@@ -253,10 +253,14 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/56BFF7/56BFF7)
 
-**Atlas Blue** (#3AC1E9)
+**Atlas Blue** (#3AC1E9) 
 
-![1](https://dummyimage.com/130x130/3AC1E9/3AC1E9)
+![1](https://dummyimage.com/130x130/3AC1E9/3AC1E9) 
 
+**Vivid Blue** (#1FA0FF)
+
+![1](https://dummyimage.com/130x130/1fa0ff/1fa0ff)
+ 
 **Salty Sea Blue** (#2491B3)
 
 ![1](https://dummyimage.com/130x130/2491B3/2491B3)
@@ -273,13 +277,19 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/376CF3/376CF3)
 
-**Electric Blue** (#0000FF)
+**Electric Blue** (#0000FF) (#0000E1) <!-- G's Color -->
 
-![1](https://dummyimage.com/130x130/0000FF/0000FF)
+![1](https://dummyimage.com/130x130/0000FF/0000FF) ![1](https://dummyimage.com/130x130/0000e1/0000e1)
+
+**Deep Blue** (#0100AD) <!-- E's Color -->
+
+![1](https://dummyimage.com/130x130/0100AD/0100AD)
 
 **Navy** (#000058)
 
 ![1](https://dummyimage.com/130x130/000058/000058)
+
+
 
 ## Brown Toned
 
