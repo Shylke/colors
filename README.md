@@ -12,7 +12,7 @@ Orange Toned | --- | 10
 Yellow Toned | --- | 10
 Green Toned | --- | 13
 Cyan Toned | --- | 10
-Blue Toned | --- | 17 
+Blue Toned | --- | 21 
 Brown Toned | --- | 12 
 Monochrome Toned | --- | 11
 
@@ -116,157 +116,93 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/92ff86/92ff86) ![1](https://dummyimage.com/130x130/94fd24/94fd24)
 
-**Electric Green** (#00FF00)
+**Electric Green** (#00FF00) 
 
-![1](https://dummyimage.com/130x130/00ff00/00ff00)
+![1](https://dummyimage.com/130x130/00ff00/00ff00) 
 
-**Booger Green** (#6BE05F)
+**Booger Green** (#6BE05F) **Forest Green** (#47C767)
 
-![1](https://dummyimage.com/130x130/6be05f/6be05f)
+![1](https://dummyimage.com/130x130/6be05f/6be05f) ![1](https://dummyimage.com/130x130/47c767/47c767)
 
-**Forest Green** (#47C767)
+**Emerald** (#2ECC71) **Dark Green** (#0F9B3E)
 
-![1](https://dummyimage.com/130x130/47c767/47c767)
-
-**Emerald** (#2ECC71)
-
-![1](https://dummyimage.com/130x130/2ecc71/2ecc71)
-
-**Dark Green** (#0F9B3E)
-
-![1](https://dummyimage.com/130x130/0f9b3e/0f9b3e)
+![1](https://dummyimage.com/130x130/2ecc71/2ecc71) ![1](https://dummyimage.com/130x130/0f9b3e/0f9b3e)
 
 
 
 ## Cyan Toned
 
-**Green Pearl** (#72EBAC)
+**Green Pearl** (#72EBAC) **Green Sea** (#16A085)
 
-![1](https://dummyimage.com/130x130/72EBAC/72EBAC)
+![1](https://dummyimage.com/130x130/72EBAC/72EBAC) ![1](https://dummyimage.com/130x130/16A085/16A085)
 
-**Green Sea** (#16A085)
+**Teal** (#50B5A1) **Dark Teal** (#5ABDA5)
 
-![1](https://dummyimage.com/130x130/16A085/16A085)
+![1](https://dummyimage.com/130x130/50B5A1/50B5A1) ![1](https://dummyimage.com/130x130/5ABDA5/5ABDA5)
 
-**Teal** (#50B5A1)
+**Torquoise** (#0CC1AD) **Dark Torquoise** (#08736F) <!-- K's Color -->
 
-![1](https://dummyimage.com/130x130/50B5A1/50B5A1)
+![1](https://dummyimage.com/130x130/0CC1AD/0CC1AD) ![1](https://dummyimage.com/130x130/08736f/08736f)
 
-**Dark Teal** (#5ABDA5)
+**Aquamarine** (#7FFFD4) **Light Cyan** (#8FE8F8)
 
-![1](https://dummyimage.com/130x130/5ABDA5/5ABDA5)
+![1](https://dummyimage.com/130x130/7FFFD4/7FFFD4) ![1](https://dummyimage.com/130x130/8fe8f8/8fe8f8) 
 
-**Torquoise** (#0CC1AD)
+**Cyan** (#54ECE1) **Bright Cyan** (#07FFEB)
 
-![1](https://dummyimage.com/130x130/0CC1AD/0CC1AD)
-
-**Dark Torquoise** (#08736F) <!-- K's Color -->
-
-![1](https://dummyimage.com/130x130/08736f/08736f)
-
-**Aquamarine** (#7FFFD4) 
-
-![1](https://dummyimage.com/130x130/7FFFD4/7FFFD4) 
-
-**Light Cyan** (#8FE8F8)
-
-![1](https://dummyimage.com/130x130/8fe8f8/8fe8f8) 
-
-**Cyan** (#54ECE1) 
-
-![1](https://dummyimage.com/130x130/54ECE1/54ECE1) 
-
-**Bright Cyan** (#07FFEB)
-
-![1](https://dummyimage.com/130x130/07ffeb/07ffeb)
+![1](https://dummyimage.com/130x130/54ECE1/54ECE1) ![1](https://dummyimage.com/130x130/07ffeb/07ffeb)
 
 
 
 ## Blue Toned
 
-**Pale Azure** (#F0FFFF)
+**Pale Azure** (#F0FFFF) **Water** (#C2E5F8)
 
-![1](https://dummyimage.com/130x130/f0ffff/f0ffff)
+![1](https://dummyimage.com/130x130/f0ffff/f0ffff) ![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
 
-**Water** (#C2E5F8)
+**Pond** (#D1DDFF) **Light Cobalt Blue** (#79A8DA)
 
-![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
-
-**Pond** (#D1DDFF)
-
-![1](https://dummyimage.com/130x130/D1DDFF/D1DDFF)
+![1](https://dummyimage.com/130x130/D1DDFF/D1DDFF) ![1](https://dummyimage.com/130x130/79a8da/79a8da)
 
 **Sky Blue** (#53CCFF)
 
 ![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
 
-**Cerulean** (#56BFF7)
+**Cerulean** (#56BFF7) **Atlas Blue** (#3AC1E9) 
 
-![1](https://dummyimage.com/130x130/56BFF7/56BFF7) 
+![1](https://dummyimage.com/130x130/56BFF7/56BFF7) ![1](https://dummyimage.com/130x130/3AC1E9/3AC1E9) 
 
-**Atlas Blue** (#3AC1E9) 
+**Vivid Blue** (#1FA0FF) <!-- Starlight's Color --> **Medium Azure** (#4B92DB)
 
-![1](https://dummyimage.com/130x130/3AC1E9/3AC1E9) 
+![1](https://dummyimage.com/130x130/1fa0ff/1fa0ff) ![1](https://dummyimage.com/130x130/4b92db/4b92db)
 
-**Vivid Blue** (#1FA0FF) <!-- Starlight's Color -->
+**Azure** (#007FFF) **Salty Sea Blue** (#2491B3)
 
-![1](https://dummyimage.com/130x130/1fa0ff/1fa0ff)
+![1](https://dummyimage.com/130x130/007FFF/007FFF) ![1](https://dummyimage.com/130x130/2491B3/2491B3)
 
-**Medium Azure** (#4B92DB)
+**Metallic Blue** (#3182A0) **Dark Metallic Blue** (#006B88) <!-- C's Color -->
 
-![1](https://dummyimage.com/130x130/4b92db/4b92db)
+![1](https://dummyimage.com/130x130/3182A0/3182A0) ![1](https://dummyimage.com/130x130/006b88/006b88)
 
-**Azure** (#007FFF)
+**Kashmir Blue** (#476E8E) **Cobalt Blue** (#376CF3)
 
-![1](https://dummyimage.com/130x130/007FFF/007FFF)
+![1](https://dummyimage.com/130x130/476E8E/476E8E) ![1](https://dummyimage.com/130x130/376CF3/376CF3)
 
-**Salty Sea Blue** (#2491B3)
+**Blue** (#0044EB) **Royal Azure** (#003FFF)
 
-![1](https://dummyimage.com/130x130/2491B3/2491B3)
-
-**Metallic Blue** (#3182A0)
-
-![1](https://dummyimage.com/130x130/3182A0/3182A0)
-
-**Dark Metallic Blue** (#006B88) <!-- C's Color -->
-
-![1](https://dummyimage.com/130x130/006b88/006b88)
-
-**Kashmir Blue** (#476E8E)
-
-![1](https://dummyimage.com/130x130/476E8E/476E8E)
-
-**Cobalt Blue** (#376CF3)
-
-![1](https://dummyimage.com/130x130/376CF3/376CF3)
-
-**Blue** (#0044EB)
-
-![1](https://dummyimage.com/130x130/0044eb/0044eb)
-
-**Royal Azure** (#003FFF)
-
-![1](https://dummyimage.com/130x130/003FFF/003FFF)
+![1](https://dummyimage.com/130x130/0044eb/0044eb) ![1](https://dummyimage.com/130x130/003FFF/003FFF)
 
 **Electric Blue** (#0000FF) (#0000E1) <!-- G's Color -->
 
 ![1](https://dummyimage.com/130x130/0000FF/0000FF) ![1](https://dummyimage.com/130x130/0000e1/0000e1)
 
-**Dark Azure** (#003399)
+**Dark Azure** (#003399) **Deep Blue** (#0100AD) <!-- E's Color -->
 
-![1](https://dummyimage.com/130x130/003399/003399)
-
-**Deep Blue** (#0100AD) <!-- E's Color -->
-
-![1](https://dummyimage.com/130x130/0100AD/0100AD)
+![1](https://dummyimage.com/130x130/003399/003399) ![1](https://dummyimage.com/130x130/0100AD/0100AD)
 
 **Navy** (#000058)
 
 ![1](https://dummyimage.com/130x130/000058/000058)
-
-**Light Cobalt Blue** (#79A8DA)
-
-![1](https://dummyimage.com/130x130/79a8da/79a8da)
 
 
 ## Brown Toned
