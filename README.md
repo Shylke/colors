@@ -156,13 +156,13 @@ Monochrome Toned | --- | 11
 
 ## Blue Toned
 
-**Pale Azure** (#F0FFFF) **Water** (#C2E5F8)
+**Pale Azure** (#F0FFFF) **Sky Blue** (#53CCFF)
 
-![1](https://dummyimage.com/130x130/f0ffff/f0ffff) ![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
+![1](https://dummyimage.com/130x130/f0ffff/f0ffff) ![1](https://dummyimage.com/130x130/53CCFF/53CCFF)
 
-**Pond** (#D1DDFF) **Sky Blue** (#53CCFF)
+**Water** (#C2E5F8) **Pond** (#D1DDFF) 
 
-![1](https://dummyimage.com/130x130/D1DDFF/D1DDFF) ![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
+ ![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8) ![1](https://dummyimage.com/130x130/D1DDFF/D1DDFF) 
 
 **Cerulean** (#56BFF7) **Atlas Blue** (#3AC1E9) 
 
@@ -184,13 +184,21 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/006b88/006b88) ![1](https://dummyimage.com/130x130/476E8E/476E8E)
 
-**Industrial Blue** (#385791) 
+**Light Industrial Blue** (#6E79A2) **Industrial Blue** (#385791) 
 
-![1](https://dummyimage.com/130x130/385791/385791) 
+![1](https://dummyimage.com/130x130/6e79a2/6e79a2) ![1](https://dummyimage.com/130x130/385791/385791) 
 
-**Light Cobalt Blue** (#79A8DA) **Cobalt Blue** (#376CF3)
+**Light Cobalt Blue** (#79A8DA) 
 
-![1](https://dummyimage.com/130x130/79a8da/79a8da) ![1](https://dummyimage.com/130x130/376CF3/376CF3)
+![1](https://dummyimage.com/130x130/376CF3/376CF3)
+
+**Soft Blue** (#7884FF) <!-- A's color-->
+
+![1](https://dummyimage.com/130x130/7884ff/7884ff) 
+
+ **Cobalt Blue** (#376CF3)
+
+![1](https://dummyimage.com/130x130/79a8da/79a8da) 
 
 **Blue** (#0044EB) **Royal Azure** (#003FFF)
 
