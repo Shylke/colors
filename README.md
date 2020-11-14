@@ -14,6 +14,8 @@ Blue Toned | --- | 17
 Brown Toned | --- | 12 
 Monochrome Toned | --- | 11
 
+<br>
+
 ## Red Toned
 
 **Bad Blood** (#530E0F) <!-- Grunge's Color --> **Scarlet** (#7B1C22)
