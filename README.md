@@ -1,7 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 <div align=center>
-
+#nude {
+  border-radius: 25px;
+  background: #ebc8b2;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  color: black;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  float: left;  
+}
+ <p id="nude"; style="text-align:center; font-size:200%;">Nude<br /><br />#EBC8B2</p>
 # Colors
-<hr class="border">
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
 (Red Toned - 13, Orange Toned - 10, Yellow Toned - 10, Green Toned - 13, Cyan Toned - 10, Blue Toned - 17, Brown Toned - 12, Light to Dark Toned - 11)
@@ -393,3 +406,5 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 ![1](https://dummyimage.com/130x130/000000/000000)
 
 </div>
+</body>
+</html>
