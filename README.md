@@ -12,8 +12,8 @@ Orange Toned | --- | 10
 Yellow Toned | --- | 10
 Green Toned | --- | 13
 Cyan Toned | --- | 10
-Blue Toned | --- | 23 
-Indigo Toned | --- | 9
+Blue Toned | --- | 22 
+Indigo Toned | --- | 11
 Brown Toned | --- | 12 
 Monochrome Toned | --- | 11
 
@@ -41,7 +41,7 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/e34234/e34234) ![1](https://dummyimage.com/130x130/d14141/d14141)
 
-006b88**Amaranth** (#E03F54) **Red** (#F35757)
+**Amaranth** (#E03F54) **Red** (#F35757)
 
 ![1](https://dummyimage.com/130x130/e03f54/e03f54) ![1](https://dummyimage.com/130x130/f35757/f35757)
 
@@ -157,13 +157,13 @@ Monochrome Toned | --- | 11
 
 ## Blue Toned
 
-**Pale Azure** (#F0FFFF) **Water** (#C2E5F8) 
+**Pale Azure** (#F0FFFF) **Pond** (#D1DDFF) 
 
-![1](https://dummyimage.com/130x130/f0ffff/f0ffff)  ![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
+![1](https://dummyimage.com/130x130/f0ffff/f0ffff) ![1](https://dummyimage.com/130x130/D1DDFF/D1DDFF) 
 
-**Pond** (#D1DDFF) 
+**Water** (#C2E5F8) 
 
-![1](https://dummyimage.com/130x130/D1DDFF/D1DDFF) 
+ ![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
 
 **Sky Blue** (#53CCFF) **Cerulean** (#56BFF7) 
 
@@ -185,9 +185,9 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/006b88/006b88) ![1](https://dummyimage.com/130x130/476E8E/476E8E)
 
-**Soft Blue** (#7884FF) <!-- A's color--> **Light Cobalt Blue** (#79A8DA)
+**Light Cobalt Blue** (#79A8DA)
 
-![1](https://dummyimage.com/130x130/7884ff/7884ff) ![1](https://dummyimage.com/130x130/79a8da/79a8da) 
+![1](https://dummyimage.com/130x130/79a8da/79a8da) 
 
 **Medium Azure** (#4B92DB) **Cobalt Blue** (#376CF3) 
 
@@ -219,11 +219,15 @@ Monochrome Toned | --- | 11
 
 **Dark Indigo** (#48569D) **Indigo** (#4F69C6)
 
-![1](https://dummyimage.com/130x130/48569D/48569D) ![1](https://dummyimage.com/130x130/4F69C6/#4F69C6)
+![1](https://dummyimage.com/130x130/48569D/48569D) ![1](https://dummyimage.com/130x130/4F69C6/4F69C6)
 
 **Light Industrial Blue** (#6E79A2) <!-- Turbo's Color --> **Soft Purple** (#4F6ADE)
 
 ![1](https://dummyimage.com/130x130/6e79a2/6e79a2) ![1](https://dummyimage.com/130x130/4F6ADE/4F6ADE)
+
+**Washed Denim** (#678BBD) **Soft Blue** (#7884FF) <!-- A's color-->
+
+![1](https://dummyimage.com/130x130/678BBD/678BBD) ![1](https://dummyimage.com/130x130/7884ff/7884ff) 
 
 **Softer Purple** (#637BBF) **Blurple** (#7086D6)
 
