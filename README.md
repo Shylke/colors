@@ -7,12 +7,12 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 Hues | --- | Number
 --- | --- | ---
-Red Toned | --- | 13
+Red Toned | --- | 14
 Orange Toned | --- | 10
 Yellow Toned | --- | 10
 Green Toned | --- | 13
 Cyan Toned | --- | 10
-Blue Toned | --- | 21 
+Blue Toned | --- | 23 
 Brown Toned | --- | 12 
 Monochrome Toned | --- | 11
 
@@ -28,25 +28,25 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/800000/800000) ![1](https://dummyimage.com/130x130/800101/800101)
 
-**Dark Red** (#CC0000) **Blood Red** (#FF0000)
+**Burnt Red** (#831F18) **Dark Red** (#CC0000) 
 
-![1](https://dummyimage.com/130x130/cc0000/cc0000) ![1](https://dummyimage.com/130x130/ff0000/ff0000)
+![1](https://dummyimage.com/130x130/831F18/831F18) ![1](https://dummyimage.com/130x130/cc0000/cc0000) 
 
-**Watermelon** (#FF092A) <!-- Ace's Color --> **Vermillion** (#E34234)
+**Blood Red** (#FF0000) **Watermelon** (#FF092A) <!-- Ace's Color --> 
 
-![1](https://dummyimage.com/130x130/ff092a/ff092a) ![1](https://dummyimage.com/130x130/e34234/e34234)
+![1](https://dummyimage.com/130x130/ff0000/ff0000) ![1](https://dummyimage.com/130x130/ff092a/ff092a)
 
-**Crimson** (#D14141) **Amaranth** (#E03F54)
+**Vermillion** (#E34234) **Crimson** (#D14141)
 
-![1](https://dummyimage.com/130x130/d14141/d14141) ![1](https://dummyimage.com/130x130/e03f54/e03f54)
+![1](https://dummyimage.com/130x130/e34234/e34234) ![1](https://dummyimage.com/130x130/d14141/d14141)
 
-**Red** (#F35757) **Crude Salmon** (#EB6161)
+ **Amaranth** (#E03F54) **Red** (#F35757)
 
-![1](https://dummyimage.com/130x130/f35757/f35757) ![1](https://dummyimage.com/130x130/eb6161/eb6161)
+![1](https://dummyimage.com/130x130/e03f54/e03f54) ![1](https://dummyimage.com/130x130/f35757/f35757)
 
-**Salmon** (#F3785C)
+**Crude Salmon** (#EB6161) **Salmon** (#F3785C)
 
-![1](https://dummyimage.com/130x130/f3785c/f3785c)
+![1](https://dummyimage.com/130x130/eb6161/eb6161) ![1](https://dummyimage.com/130x130/f3785c/f3785c)
 
 
 
@@ -176,19 +176,15 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/007FFF/007FFF) ![1](https://dummyimage.com/130x130/2491B3/2491B3)
 
-**Metallic Blue** (#3182A0) 
+**Metallic Blue** (#3182A0) (#276580)
 
-![1](https://dummyimage.com/130x130/3182A0/3182A0) 
+![1](https://dummyimage.com/130x130/3182A0/3182A0) ![1](https://dummyimage.com/130x130/276580/276580)
 
-**Dark Metallic Blue** (#006B88) <!-- C's Color --> (#276580)
+**Dark Metallic Blue** (#006B88) <!-- C's Color --> **Kashmir Blue** (#476E8E)
 
-![1](https://dummyimage.com/130x130/006b88/006b88) ![1](https://dummyimage.com/130x130/276580/276580)
+![1](https://dummyimage.com/130x130/006b88/006b88) ![1](https://dummyimage.com/130x130/476E8E/476E8E)
 
- **Kashmir Blue** (#476E8E)
-
- ![1](https://dummyimage.com/130x130/476E8E/476E8E)
-
- **Industrial Blue** (#385791) 
+**Industrial Blue** (#385791) 
 
 ![1](https://dummyimage.com/130x130/385791/385791) 
 
