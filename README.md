@@ -2,8 +2,6 @@
 
 # Colors
 
-</div>
-
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
 (Red Toned - 13, Orange Toned - 10, Yellow Toned - 10, Green Toned - 13, Cyan Toned - 10, Blue Toned - 17, Brown Toned - 12, Light to Dark Toned - 11)
@@ -402,4 +400,4 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/000000/000000)
 
-
+</div>
