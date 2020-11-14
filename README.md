@@ -1,4 +1,8 @@
+<div align=center>
+
 # Colors
+
+</div>
 
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
