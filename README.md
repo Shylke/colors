@@ -168,9 +168,9 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/56BFF7/56BFF7) ![1](https://dummyimage.com/130x130/3AC1E9/3AC1E9) 
 
-**Vivid Blue** (#1FA0FF) <!-- Starlight's Color --> **Medium Azure** (#4B92DB)
+**Vivid Blue** (#1FA0FF) <!-- Starlight's Color --> 
 
-![1](https://dummyimage.com/130x130/1fa0ff/1fa0ff) ![1](https://dummyimage.com/130x130/4b92db/4b92db)
+![1](https://dummyimage.com/130x130/1fa0ff/1fa0ff) 
 
 **Azure** (#007FFF) **Salty Sea Blue** (#2491B3)
 
@@ -184,21 +184,17 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/006b88/006b88) ![1](https://dummyimage.com/130x130/476E8E/476E8E)
 
-**Light Industrial Blue** (#6E79A2) **Industrial Blue** (#385791) 
+**Light Industrial Blue** (#6E79A2) <!-- Turbo's Color --> **Industrial Blue** (#385791) 
 
 ![1](https://dummyimage.com/130x130/6e79a2/6e79a2) ![1](https://dummyimage.com/130x130/385791/385791) 
 
-**Light Cobalt Blue** (#79A8DA) 
+**Soft Blue** (#7884FF) <!-- A's color--> **Light Cobalt Blue** (#79A8DA)
 
-![1](https://dummyimage.com/130x130/376CF3/376CF3)
+![1](https://dummyimage.com/130x130/7884ff/7884ff) ![1](https://dummyimage.com/130x130/79a8da/79a8da) 
 
-**Soft Blue** (#7884FF) <!-- A's color-->
+**Cobalt Blue** (#376CF3) **Medium Azure** (#4B92DB)
 
-![1](https://dummyimage.com/130x130/7884ff/7884ff) 
-
- **Cobalt Blue** (#376CF3)
-
-![1](https://dummyimage.com/130x130/79a8da/79a8da) 
+![1](https://dummyimage.com/130x130/376CF3/376CF3) ![1](https://dummyimage.com/130x130/4b92db/4b92db)
 
 **Blue** (#0044EB) **Royal Azure** (#003FFF)
 
