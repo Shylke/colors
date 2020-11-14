@@ -6,7 +6,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 (Red Toned - 13, Orange Toned - 10, Yellow Toned - 10, Green Toned - 13, Cyan Toned - 10, Blue Toned - 17, Brown Toned - 12, Light to Dark Toned - 11)
 
 ## Red Toned
-<p style="color:DodgerBlue;">Lorem ipsum...</p>
+
 **Bad Blood** (#530E0F) <!-- Grunge's Color --> **Scarlet** (#7B1C22)
 
 ![1](https://dummyimage.com/130x130/530e0f/530e0f) ![1](https://dummyimage.com/130x130/7b1c22/7b1c22)
@@ -15,25 +15,17 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/800000/800000) ![1](https://dummyimage.com/130x130/800101/800101)
 
-**Dark Red** (#CC0000) **Blood Red** (#FF0000)
+**Dark Red** (#CC0000) | **Blood Red** (#FF0000)
 
 ![1](https://dummyimage.com/130x130/cc0000/cc0000) ![1](https://dummyimage.com/130x130/ff0000/ff0000)
 
-**Watermelon** (#FF092A) <!-- Ace's Color -->
+**Watermelon** (#FF092A) <!-- Ace's Color --> | **Vermillion** (#E34234)
 
-![1](https://dummyimage.com/130x130/ff092a/ff092a)
+![1](https://dummyimage.com/130x130/ff092a/ff092a) ![1](https://dummyimage.com/130x130/e34234/e34234)
 
-**Vermillion** (#E34234)
+**Crimson** (#D14141) | **Amaranth** (#E03F54)
 
-![1](https://dummyimage.com/130x130/e34234/e34234)
-
-**Crimson** (#D14141)
-
-![1](https://dummyimage.com/130x130/d14141/d14141)
-
-**Amaranth** (#E03F54)
-
-![1](https://dummyimage.com/130x130/e03f54/e03f54)
+![1](https://dummyimage.com/130x130/d14141/d14141) ![1](https://dummyimage.com/130x130/e03f54/e03f54)
 
 **Red** (#F35757)
 
