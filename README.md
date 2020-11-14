@@ -6,7 +6,7 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 (Red Toned - 13, Orange Toned - 10, Yellow Toned - 10, Green Toned - 13, Cyan Toned - 10, Blue Toned - 17, Brown Toned - 12, Light to Dark Toned - 11)
 
 ## Red Toned
-
+<p style="color:DodgerBlue;">Lorem ipsum...</p>
 **Bad Blood** (#530E0F) <!-- Grunge's Color --> **Scarlet** (#7B1C22)
 
 ![1](https://dummyimage.com/130x130/530e0f/530e0f) ![1](https://dummyimage.com/130x130/7b1c22/7b1c22)
