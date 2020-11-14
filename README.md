@@ -178,11 +178,15 @@ Monochrome Toned | --- | 11
 
 **Metallic Blue** (#3182A0) **Dark Metallic Blue** (#006B88) <!-- C's Color -->
 
-![1](https://dummyimage.com/130x130/3182A0/3182A0) ![1](https://dummyimage.com/130x130/006b88/006b88)
+![1](https://dummyimage.com/130x130/3182A0/3182A0) ![1](https://dummyimage.com/130x130/006b88/006b88) 
 
-**Kashmir Blue** (#476E8E) **Industrial Blue** (#385791) 
+**Dark Opaque Metallic Blue** **Kashmir Blue** (#476E8E)
 
-![1](https://dummyimage.com/130x130/476E8E/476E8E) ![1](https://dummyimage.com/130x130/385791/385791) 
+![1](https://dummyimage.com/130x130/276580/276580) ![1](https://dummyimage.com/130x130/476E8E/476E8E)
+
+ **Industrial Blue** (#385791) 
+
+![1](https://dummyimage.com/130x130/385791/385791) 
 
 **Light Cobalt Blue** (#79A8DA) **Cobalt Blue** (#376CF3)
 
