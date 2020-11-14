@@ -12,21 +12,13 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/530e0f/530e0f) ![1](https://dummyimage.com/130x130/7b1c22/7b1c22)
 
-
-
-
-
 **Maroon** (#800000) (#800101) <!-- Reverie's Color -->
 
 ![1](https://dummyimage.com/130x130/800000/800000) ![1](https://dummyimage.com/130x130/800101/800101)
 
-**Dark Red** (#CC0000)
+**Dark Red** (#CC0000) **Blood Red** (#FF0000)
 
-![1](https://dummyimage.com/130x130/cc0000/cc0000)
-
-**Blood Red** (#FF0000)
-
-![1](https://dummyimage.com/130x130/ff0000/ff0000)
+![1](https://dummyimage.com/130x130/cc0000/cc0000) ![1](https://dummyimage.com/130x130/ff0000/ff0000)
 
 **Watermelon** (#FF092A) <!-- Ace's Color -->
 
