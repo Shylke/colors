@@ -180,11 +180,12 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/3182A0/3182A0) ![1](https://dummyimage.com/130x130/006b88/006b88)
 
-**Kashmir Blue** (#476E8E) 
+**Kashmir Blue** (#476E8E) **Industrial Blue** (#385791) 
 
-![1](https://dummyimage.com/130x130/476E8E/476E8E) 
+![1](https://dummyimage.com/130x130/476E8E/476E8E) ![1](https://dummyimage.com/130x130/385791/385791) 
 
 **Light Cobalt Blue** (#79A8DA) **Cobalt Blue** (#376CF3)
+
 ![1](https://dummyimage.com/130x130/79a8da/79a8da) ![1](https://dummyimage.com/130x130/376CF3/376CF3)
 
 **Blue** (#0044EB) **Royal Azure** (#003FFF)
