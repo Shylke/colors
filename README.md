@@ -12,7 +12,8 @@ Orange Toned | --- | 10
 Yellow Toned | --- | 10
 Green Toned | --- | 13
 Cyan Toned | --- | 10
-Blue Toned | --- | 23 
+Blue Toned | --- | 25 
+Indigo Toned | --- | 2
 Brown Toned | --- | 12 
 Monochrome Toned | --- | 11
 
@@ -192,9 +193,9 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/7884ff/7884ff) ![1](https://dummyimage.com/130x130/79a8da/79a8da) 
 
-**Cobalt Blue** (#376CF3) **Medium Azure** (#4B92DB)
+**Medium Azure** (#4B92DB) **Cobalt Blue** (#376CF3) 
 
-![1](https://dummyimage.com/130x130/376CF3/376CF3) ![1](https://dummyimage.com/130x130/4b92db/4b92db)
+![1](https://dummyimage.com/130x130/4b92db/4b92db) ![1](https://dummyimage.com/130x130/376CF3/376CF3) 
 
 **Blue** (#0044EB) **Royal Azure** (#003FFF)
 
@@ -213,6 +214,20 @@ Monochrome Toned | --- | 11
 ![1](https://dummyimage.com/130x130/000058/000058)
 
 
+
+## Indigo Toned
+
+**Cosmic Blue** (#2E2D88)
+
+![1](https://dummyimage.com/130x130/2E2D88/2E2D88)
+
+**Dark Indigo** (#48569D) **Indigo** (#4F69C6)
+
+![1](https://dummyimage.com/130x130/48569D/48569D) ![1](https://dummyimage.com/130x130/4F69C6/#4F69C6)
+
+**Light Industrial Blue** (#6E79A2) <!-- Turbo's Color --> **Industrial Blue** (#385791) 
+
+![1](https://dummyimage.com/130x130/6e79a2/6e79a2) ![1](https://dummyimage.com/130x130/385791/385791) 
 
 ## Brown Toned
 
