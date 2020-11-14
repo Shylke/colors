@@ -12,8 +12,8 @@ Orange Toned | --- | 10
 Yellow Toned | --- | 10
 Green Toned | --- | 13
 Cyan Toned | --- | 10
-Blue Toned | --- | 25 
-Indigo Toned | --- | 2
+Blue Toned | --- | 23 
+Indigo Toned | --- | 9
 Brown Toned | --- | 12 
 Monochrome Toned | --- | 11
 
@@ -41,7 +41,7 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/e34234/e34234) ![1](https://dummyimage.com/130x130/d14141/d14141)
 
- **Amaranth** (#E03F54) **Red** (#F35757)
+006b88**Amaranth** (#E03F54) **Red** (#F35757)
 
 ![1](https://dummyimage.com/130x130/e03f54/e03f54) ![1](https://dummyimage.com/130x130/f35757/f35757)
 
@@ -157,21 +157,21 @@ Monochrome Toned | --- | 11
 
 ## Blue Toned
 
-**Pale Azure** (#F0FFFF) **Sky Blue** (#53CCFF)
+**Pale Azure** (#F0FFFF) **Water** (#C2E5F8) 
 
-![1](https://dummyimage.com/130x130/f0ffff/f0ffff) ![1](https://dummyimage.com/130x130/53CCFF/53CCFF)
+![1](https://dummyimage.com/130x130/f0ffff/f0ffff)  ![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
 
-**Water** (#C2E5F8) **Pond** (#D1DDFF) 
+**Pond** (#D1DDFF) 
 
- ![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8) ![1](https://dummyimage.com/130x130/D1DDFF/D1DDFF) 
+![1](https://dummyimage.com/130x130/D1DDFF/D1DDFF) 
 
-**Cerulean** (#56BFF7) **Atlas Blue** (#3AC1E9) 
+**Sky Blue** (#53CCFF) **Cerulean** (#56BFF7) 
 
-![1](https://dummyimage.com/130x130/56BFF7/56BFF7) ![1](https://dummyimage.com/130x130/3AC1E9/3AC1E9) 
+![1](https://dummyimage.com/130x130/53CCFF/53CCFF) ![1](https://dummyimage.com/130x130/56BFF7/56BFF7) 
 
-**Vivid Blue** (#1FA0FF) <!-- Starlight's Color --> 
+**Atlas Blue** (#3AC1E9) **Vivid Blue** (#1FA0FF) <!-- Starlight's Color --> 
 
-![1](https://dummyimage.com/130x130/1fa0ff/1fa0ff) 
+![1](https://dummyimage.com/130x130/3AC1E9/3AC1E9) ![1](https://dummyimage.com/130x130/1fa0ff/1fa0ff) 
 
 **Azure** (#007FFF) **Salty Sea Blue** (#2491B3)
 
@@ -184,10 +184,6 @@ Monochrome Toned | --- | 11
 **Dark Metallic Blue** (#006B88) <!-- C's Color --> **Kashmir Blue** (#476E8E)
 
 ![1](https://dummyimage.com/130x130/006b88/006b88) ![1](https://dummyimage.com/130x130/476E8E/476E8E)
-
-**Light Industrial Blue** (#6E79A2) <!-- Turbo's Color --> **Industrial Blue** (#385791) 
-
-![1](https://dummyimage.com/130x130/6e79a2/6e79a2) ![1](https://dummyimage.com/130x130/385791/385791) 
 
 **Soft Blue** (#7884FF) <!-- A's color--> **Light Cobalt Blue** (#79A8DA)
 
@@ -217,17 +213,27 @@ Monochrome Toned | --- | 11
 
 ## Indigo Toned
 
-**Cosmic Blue** (#2E2D88)
+**Cosmic Blue** (#2E2D88) **Industrial Blue** (#385791) 
 
-![1](https://dummyimage.com/130x130/2E2D88/2E2D88)
+![1](https://dummyimage.com/130x130/2E2D88/2E2D88) ![1](https://dummyimage.com/130x130/385791/385791) 
 
 **Dark Indigo** (#48569D) **Indigo** (#4F69C6)
 
 ![1](https://dummyimage.com/130x130/48569D/48569D) ![1](https://dummyimage.com/130x130/4F69C6/#4F69C6)
 
-**Light Industrial Blue** (#6E79A2) <!-- Turbo's Color --> **Industrial Blue** (#385791) 
+**Light Industrial Blue** (#6E79A2) <!-- Turbo's Color --> **Soft Purple** (#4F6ADE)
 
-![1](https://dummyimage.com/130x130/6e79a2/6e79a2) ![1](https://dummyimage.com/130x130/385791/385791) 
+![1](https://dummyimage.com/130x130/6e79a2/6e79a2) ![1](https://dummyimage.com/130x130/4F6ADE/4F6ADE)
+
+**Softer Purple** (#637BBF) **Blurple** (#7086D6)
+
+![1](https://dummyimage.com/130x130/637BBF/637BBF) ![1](https://dummyimage.com/130x130/7086D6/7086D6)
+
+**Periwinkle** (#CCCCFF)
+
+![1](https://dummyimage.com/130x130/CCCCFF/CCCCFF)
+
+
 
 ## Brown Toned
 
