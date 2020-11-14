@@ -3,6 +3,8 @@
 # Colors
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
+<br>
+
 Hues | --- | Number
 --- | --- | ---
 Red Toned | --- | 13
@@ -182,13 +184,17 @@ Monochrome Toned | --- | 11
 
 ## Blue Toned
 
-**Pond** (#D1DDFF)
+**Pale Azure** (#F0FFFF)
 
-![1](https://dummyimage.com/130x130/D1DDFF/D1DDFF)
+![1](https://dummyimage.com/130x130/f0ffff/f0ffff)
 
 **Water** (#C2E5F8)
 
 ![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
+
+**Pond** (#D1DDFF)
+
+![1](https://dummyimage.com/130x130/D1DDFF/D1DDFF)
 
 **Sky Blue** (#53CCFF)
 
@@ -205,7 +211,15 @@ Monochrome Toned | --- | 11
 **Vivid Blue** (#1FA0FF) <!-- Starlight's Color -->
 
 ![1](https://dummyimage.com/130x130/1fa0ff/1fa0ff)
- 
+
+**Medium Azure** (#4B92DB)
+
+![1](https://dummyimage.com/130x130/4b92db/4b92db)
+
+**Azure** (#007FFF)
+
+![1](https://dummyimage.com/130x130/007FFF/007FFF)
+
 **Salty Sea Blue** (#2491B3)
 
 ![1](https://dummyimage.com/130x130/2491B3/2491B3)
@@ -230,9 +244,17 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/0044eb/0044eb)
 
+**Royal Azure** (#003FFF)
+
+![1](https://dummyimage.com/130x130/003FFF/003FFF)
+
 **Electric Blue** (#0000FF) (#0000E1) <!-- G's Color -->
 
 ![1](https://dummyimage.com/130x130/0000FF/0000FF) ![1](https://dummyimage.com/130x130/0000e1/0000e1)
+
+**Dark Azure** (#003399)
+
+![1](https://dummyimage.com/130x130/003399/003399)
 
 **Deep Blue** (#0100AD) <!-- E's Color -->
 
