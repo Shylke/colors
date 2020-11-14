@@ -3,7 +3,16 @@
 # Colors
 Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
-(Red Toned - 13, Orange Toned - 10, Yellow Toned - 10, Green Toned - 13, Cyan Toned - 10, Blue Toned - 17, Brown Toned - 12, Light to Dark Toned - 11)
+Hues | --- | Number
+--- | --- | ---
+Red Toned | --- | 13
+Orange Toned | --- | 10
+Yellow Toned | --- | 10
+Green Toned | --- | 13
+Cyan Toned | --- | 10
+Blue Toned | --- | 17 
+Brown Toned | --- | 12 
+Monochrome Toned | --- | 11
 
 ## Red Toned
 
@@ -87,33 +96,21 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ## Green Toned
 
-**Lime** (#C0FF37)
+**Lime** (#C0FF37) **Bitter Lemon** (#BCFC00)
 
-![1](https://dummyimage.com/130x130/c0ff37/c0ff37)
-
-**Bitter Lemon** (#BCFC00)
-
-![1](https://dummyimage.com/130x130/bcfc00/bcfc00)
-
-**Leaf** (#AED161)
-
-![1](https://dummyimage.com/130x130/aed161/aed161)
+![1](https://dummyimage.com/130x130/c0ff37/c0ff37) ![1](https://dummyimage.com/130x130/bcfc00/bcfc00)
 
 **Sycamore** (#7F943D) (#8AA23E)
 
 ![1](https://dummyimage.com/130x130/7f943d/7f943d) ![1](https://dummyimage.com/130x130/8aa23e/8aa23e)
 
-**Deep Leaf** (#8FC73E)
+**Deep Leaf** (#8FC73E) **Leaf** (#AED161)
 
-![1](https://dummyimage.com/130x130/8fc73e/8fc73e)
+![1](https://dummyimage.com/130x130/8fc73e/8fc73e) ![1](https://dummyimage.com/130x130/aed161/aed161)
 
-**Dewdrop** (#92FF86)
+**Dewdrop** (#92FF86) **Green** (#94FD24) <!-- SH's Color -->
 
-![1](https://dummyimage.com/130x130/92ff86/92ff86)
-
-**Green** (#94FD24) <!-- SH's Color -->
-
-![1](https://dummyimage.com/130x130/94fd24/94fd24)
+![1](https://dummyimage.com/130x130/92ff86/92ff86) ![1](https://dummyimage.com/130x130/94fd24/94fd24)
 
 **Electric Green** (#00FF00)
 
@@ -300,32 +297,19 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 
 
+## Monochrome Toned
 
-## Light to Dark Toned
+**Pure White** (#FFFFFF) **Shining Silver** (#F0F0F0)
 
-**Pure White** (#FFFFFF)
+![1](https://dummyimage.com/130x130/ffffff/ffffff) ![1](https://dummyimage.com/130x130/f0f0f0/f0f0f0)
 
-![1](https://dummyimage.com/130x130/ffffff/ffffff)
+**Light Grey** (#D2D2D2) <!-- Phantasma's Color --> **Silver** (#BBC6CC) 
 
-**Shining Silver** (#F0F0F0)
+![1](https://dummyimage.com/130x130/d2d2d2/d2d2d2) ![1](https://dummyimage.com/130x130/bbc6cc/bbc6cc) 
 
-![1](https://dummyimage.com/130x130/f0f0f0/f0f0f0)
+**Metal** (#95A5A6) **Grey** (#979C9F)
 
-**Light Grey** (#D2D2D2) <!-- Phantasma's Color -->
-
-![1](https://dummyimage.com/130x130/d2d2d2/d2d2d2)
-
-**Silver** (#BBC6CC) 
-
-![1](https://dummyimage.com/130x130/bbc6cc/bbc6cc) 
-
-**Metal** (#95A5A6) 
-
-![1](https://dummyimage.com/130x130/95a5a6/95a5a6) 
-
-**Grey** (#979C9F)
-
-![1](https://dummyimage.com/130x130/979c9f/979c9f)
+![1](https://dummyimage.com/130x130/95a5a6/95a5a6) ![1](https://dummyimage.com/130x130/979c9f/979c9f)
 
 **Dark Grey** (#757575)
 
@@ -335,12 +319,12 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/181818/181818) ![1](https://dummyimage.com/130x130/1f1f1f/1f1f1f)
 
-**Jet Black** (#101222) <!-- Scythe's Color -->
+**Jet Black** (#101222) <!-- Scythe's Color --> **Pure Black** (#000000) <!-- Moon's Color -->
 
-![1](https://dummyimage.com/130x130/101222/101222)
+![1](https://dummyimage.com/130x130/101222/101222) ![1](https://dummyimage.com/130x130/000000/000000)
 
-**Pure Black** (#000000) <!-- Moon's Color -->
 
-![1](https://dummyimage.com/130x130/000000/000000)
+
+
 
 </div>
