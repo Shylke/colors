@@ -15,25 +15,21 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ![1](https://dummyimage.com/130x130/800000/800000) ![1](https://dummyimage.com/130x130/800101/800101)
 
-**Dark Red** (#CC0000) | **Blood Red** (#FF0000)
+**Dark Red** (#CC0000) **Blood Red** (#FF0000)
 
 ![1](https://dummyimage.com/130x130/cc0000/cc0000) ![1](https://dummyimage.com/130x130/ff0000/ff0000)
 
-**Watermelon** (#FF092A) <!-- Ace's Color --> | **Vermillion** (#E34234)
+**Watermelon** (#FF092A) <!-- Ace's Color --> **Vermillion** (#E34234)
 
 ![1](https://dummyimage.com/130x130/ff092a/ff092a) ![1](https://dummyimage.com/130x130/e34234/e34234)
 
-**Crimson** (#D14141) | **Amaranth** (#E03F54)
+**Crimson** (#D14141) **Amaranth** (#E03F54)
 
 ![1](https://dummyimage.com/130x130/d14141/d14141) ![1](https://dummyimage.com/130x130/e03f54/e03f54)
 
-**Red** (#F35757)
+**Red** (#F35757) **Crude Salmon** (#EB6161)
 
-![1](https://dummyimage.com/130x130/f35757/f35757)
-
-**Crude Salmon** (#EB6161)
-
-![1](https://dummyimage.com/130x130/eb6161/eb6161)
+![1](https://dummyimage.com/130x130/f35757/f35757) ![1](https://dummyimage.com/130x130/eb6161/eb6161)
 
 **Salmon** (#F3785C)
 
@@ -43,85 +39,49 @@ Just a simple HTML site that helps me keep track of color hexes. Currently there
 
 ## Orange Toned
 
-**Medium Vermillion** (#D9603B)
+**Medium Vermillion** (#D9603B) **Light Porcelain** (#F58E50)
 
-![1](https://dummyimage.com/130x130/d9603b/d9603b)
+![1](https://dummyimage.com/130x130/d9603b/d9603b) ![1](https://dummyimage.com/130x130/f58e50/f58e50)
 
-**Light Porcelain** (#F58E50)
+**Red Orange** (#FF3700) **Pumpkin** (#D35400)
 
-![1](https://dummyimage.com/130x130/f58e50/f58e50)
+![1](https://dummyimage.com/130x130/ff3700/ff3700) ![1](https://dummyimage.com/130x130/D35400/D35400)
 
-**Red Orange** (#FF3700)
+**Deep Orange** (#FF8F0D) <!-- Summer's Color --> **Orange** (#FC7500) 
 
-![1](https://dummyimage.com/130x130/ff3700/ff3700)
+![1](https://dummyimage.com/130x130/ff6f0d/ff6f0d) ![1](https://dummyimage.com/130x130/fc7500/fc7500) 
 
-**Pumpkin** (#D35400)
+**Vixen Orange** (#FF812F) **Light Orange** (#FD9418)
 
-![1](https://dummyimage.com/130x130/D35400/D35400)
+![1](https://dummyimage.com/130x130/ff812f/ff812f) ![1](https://dummyimage.com/130x130/fd9418/fd9418)
 
-**Deep Orange** (#FF8F0D) <!-- Summer's Color -->
+**Tangerine** (#FFB44E) **Honey Topaz** (#F6C57F)
 
-![1](https://dummyimage.com/130x130/ff6f0d/ff6f0d)
-
-**Orange** (#FC7500) 
-
-![1](https://dummyimage.com/130x130/fc7500/fc7500) 
-
-**Vixen Orange** (#FF812F)
-
-![1](https://dummyimage.com/130x130/ff812f/ff812f) 
-
-**Light Orange** (#FD9418)
-
-![1](https://dummyimage.com/130x130/fd9418/fd9418)
-
-**Tangerine** (#FFB44E)
-
-![1](https://dummyimage.com/130x130/ffb44e/ffb44e)
-
-**Honey Topaz** (#F6C57F)
-
-![1](https://dummyimage.com/130x130/f6c57f/f6c57f)
+![1](https://dummyimage.com/130x130/ffb44e/ffb44e) ![1](https://dummyimage.com/130x130/f6c57f/f6c57f)
 
 
 
 ## Yellow Toned
 
-**Gold** (#FFBC2C)
+**Gold** (#FFBC2C) **Mustard** (#F1C40F)
 
-![1](https://dummyimage.com/130x130/ffbc2c/ffbc2c)
+![1](https://dummyimage.com/130x130/ffbc2c/ffbc2c) ![1](https://dummyimage.com/130x130/f1c40f/f1c40f)
 
-**Mustard** (#F1C40F)
+**Sunflower** (#F7D937) **Minion Yellow** (#F5E050) 
 
-![1](https://dummyimage.com/130x130/f1c40f/f1c40f)
+![1](https://dummyimage.com/130x130/f7d937/f7d937) ![1](https://dummyimage.com/130x130/f5e050/f5e050) 
 
-**Sunflower** (#F7D937)
+**Yellow** (#FFEE00) **Light Yellow** (#FFFF4A)
 
-![1](https://dummyimage.com/130x130/f7d937/f7d937)
-
-**Minion Yellow** (#F5E050) 
-
-![1](https://dummyimage.com/130x130/f5e050/f5e050) 
-
-**Yellow** (#FFEE00)
-
-![1](https://dummyimage.com/130x130/ffee00/ffee00)
-
-**Light Yellow** (#FFFF4A)
-
-![1](https://dummyimage.com/130x130/ffff4a/ffff4a)
+![1](https://dummyimage.com/130x130/ffee00/ffee00) ![1](https://dummyimage.com/130x130/ffff4a/ffff4a)
 
 **Lemon** (#FFFD82) (#FFF581) 
 
 ![1](https://dummyimage.com/130x130/fffd82/fffd82) ![1](https://dummyimage.com/130x130/fff581/fff581) 
 
-**Primrose** (#E9EB7B)
+**Primrose** (#E9EB7B) **Dark Primrose** (#C7C13D) <!-- Topaz's Color -->
 
-![1](https://dummyimage.com/130x130/e9eb7b/e9eb7b)
-
-**Dark Primrose** (#C7C13D)
-
-![1](https://dummyimage.com/130x130/c7c13d/c7c13d) <!-- Topaz's Color -->
+![1](https://dummyimage.com/130x130/e9eb7b/e9eb7b) ![1](https://dummyimage.com/130x130/c7c13d/c7c13d) 
 
 
 
