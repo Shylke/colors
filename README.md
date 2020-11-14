@@ -112,7 +112,7 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/8fc73e/8fc73e) ![1](https://dummyimage.com/130x130/aed161/aed161)
 
-**Dewdrop** (#92FF86) **Green** (#94FD24) <!-- SH's Color -->
+**Dewdrop** (#92FF86) **Green** (#94FD24) <!-- Oblivion's Color -->
 
 ![1](https://dummyimage.com/130x130/92ff86/92ff86) ![1](https://dummyimage.com/130x130/94fd24/94fd24)
 
@@ -160,13 +160,9 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/f0ffff/f0ffff) ![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
 
-**Pond** (#D1DDFF) **Light Cobalt Blue** (#79A8DA)
+**Pond** (#D1DDFF) **Sky Blue** (#53CCFF)
 
-![1](https://dummyimage.com/130x130/D1DDFF/D1DDFF) ![1](https://dummyimage.com/130x130/79a8da/79a8da)
-
-**Sky Blue** (#53CCFF)
-
-![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
+![1](https://dummyimage.com/130x130/D1DDFF/D1DDFF) ![1](https://dummyimage.com/130x130/C2E5F8/C2E5F8)
 
 **Cerulean** (#56BFF7) **Atlas Blue** (#3AC1E9) 
 
@@ -184,9 +180,12 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/3182A0/3182A0) ![1](https://dummyimage.com/130x130/006b88/006b88)
 
-**Kashmir Blue** (#476E8E) **Cobalt Blue** (#376CF3)
+**Kashmir Blue** (#476E8E) 
 
-![1](https://dummyimage.com/130x130/476E8E/476E8E) ![1](https://dummyimage.com/130x130/376CF3/376CF3)
+![1](https://dummyimage.com/130x130/476E8E/476E8E) 
+
+**Light Cobalt Blue** (#79A8DA) **Cobalt Blue** (#376CF3)
+![1](https://dummyimage.com/130x130/79a8da/79a8da) ![1](https://dummyimage.com/130x130/376CF3/376CF3)
 
 **Blue** (#0044EB) **Royal Azure** (#003FFF)
 
@@ -205,23 +204,16 @@ Monochrome Toned | --- | 11
 ![1](https://dummyimage.com/130x130/000058/000058)
 
 
+
 ## Brown Toned
 
-**Nude** (#EBC8B2)
+**Nude** (#EBC8B2) **Sand** (#EAC6A6)
 
-![1](https://dummyimage.com/130x130/ebc8b2/ebc8b2)
+![1](https://dummyimage.com/130x130/ebc8b2/ebc8b2) ![1](https://dummyimage.com/130x130/eac6a6/eac6a6)
 
-**Sand** (#EAC6A6)
+**Coffee** (#C7AE99) **Cappucino** (#C0A371) <!-- Hallow's Color --> 
 
-![1](https://dummyimage.com/130x130/eac6a6/eac6a6)
-
-**Coffee** (#C7AE99)
-
-![1](https://dummyimage.com/130x130/c7ae99/c7ae99)
-
-**Cappucino** (#C0A371) <!-- Hallow's Color --> 
-
-![1](https://dummyimage.com/130x130/c0a371/c0a371)
+![1](https://dummyimage.com/130x130/c7ae99/c7ae99) ![1](https://dummyimage.com/130x130/c0a371/c0a371)
 
 **Desert** (#D8AB51)
 
