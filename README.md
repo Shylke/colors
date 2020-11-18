@@ -14,7 +14,7 @@ Green Toned | --- | 13
 Cyan Toned | --- | 10
 Blue Toned | --- | 22 
 Indigo Toned | --- | 11
-Purple Toned | --- | 8
+Purple Toned | --- | 14
 Brown Toned | --- | 12 
 Monochrome Toned | --- | 11
 
@@ -262,8 +262,9 @@ Monochrome Toned | --- | 11
 ![1](https://dummyimage.com/130x130/7D77A0/7D77A0)
 ![1](https://dummyimage.com/130x130/A573E6/A573E6)
 
-**Grape** (#9263B1)
+**Lavender** (#A573E6) **Grape** (#9263B1)
 
+![1](https://dummyimage.com/130x130/A573E6/A573E6)
 ![1](https://dummyimage.com/130x130/9263B1/9263B1)
 
 **Dark Plum** (#550066) **Eminence** (#702E71)
@@ -271,12 +272,11 @@ Monochrome Toned | --- | 11
 ![1](https://dummyimage.com/130x130/550066/550066)
 ![1](https://dummyimage.com/130x130/702E71/702E71)
 
-**Dusty Purple** (#8B6184) **Dusty Mauve** (#E0B0FF)
+**Dusty Mauve** (#8B6184) **Mauve** (#E0B0FF)
 
 ![1](https://dummyimage.com/130x130/8B6184/8B6184)
 ![1](https://dummyimage.com/130x130/E0B0FF/E0B0FF)
 
-**Mauve** (#
 
 
 
@@ -292,36 +292,24 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/c7ae99/c7ae99) ![1](https://dummyimage.com/130x130/c0a371/c0a371)
 
-**Desert** (#D8AB51)
-
+**Desert** (#D8AB51) **Desert Rose** (#c0836E)
+ 
 ![1](https://dummyimage.com/130x130/d8ab51/d8ab51) 
-
-**Desert Rose** (#c0836E)
-
 ![1](https://dummyimage.com/130x130/C0836E/C0836E)
 
-**Chocolate** (#815235)
+**Chocolate** (#815235) **Brown** (#532A00)
 
 ![1](https://dummyimage.com/130x130/815235/815235)
-
-**Brown** (#532A00)
-
 ![1](https://dummyimage.com/130x130/532a00/532a00)
 
-**Burnt Bricks** (#7A3D44)
+**Burnt Bricks** (#7A3D44) **Burnt Umber** (#290909)
 
 ![1](https://dummyimage.com/130x130/7a3d44/7a3d44)
-
-**Burnt Umber** (#290909)
-
 ![1](https://dummyimage.com/130x130/290909/290909)
 
-**Beige** (#B0AC94)
+**Beige** (#B0AC94) **Ivory** (#EAE9BF) <!-- Zephyr's Color -->
 
 ![1](https://dummyimage.com/130x130/b0ac94/b0ac94)
-
-**Ivory** (#EAE9BF) <!-- Zephyr's Color -->
-
 ![1](https://dummyimage.com/130x130/eae9bf/eae9bf)
 
 
