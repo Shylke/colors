@@ -239,6 +239,31 @@ Monochrome Toned | --- | 11
 
 
 
+## Purple Toned 
+
+**Deep Purple** (#6C6BBB) **Purple** (#7E58DF)
+
+![1](https://dummyimage.com/130x130/6C6BBB/6C6BBB)
+![1](https://dummyimage.com/130x130/7E58DF/7E58DF) 
+
+**Electric Purple** (#7F00FF) **Soft Purple** (#887CD6)
+
+![1](https://dummyimage.com/130x130/7F00FF/7F00FF)
+![1](https://dummyimage.com/130x130/887CD6/887CD6)
+
+**Deep Lavender** (#755FA4) **Dark Grape** (#57456A)
+
+![1](https://dummyimage.com/130x130/755FA4/755FA4)
+![1](https://dummyimage.com/130x130/57456A/57456A)
+
+**Slate Grape** (#7D77A0) **Lavender** (#A573E6)
+
+![1](https://dummyimage.com/130x130/7D77A0/7D77A0)
+![1](https://dummyimage.com/130x130/A573E6/A573E6)
+
+
+
+
 ## Brown Toned
 
 **Nude** (#EBC8B2) **Sand** (#EAC6A6)
