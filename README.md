@@ -244,41 +244,55 @@ Monochrome Toned | --- | 11
 
 **Deep Purple** (#6C6BBB) **Purple** (#7E58DF)
 
-![1](https://dummyimage.com/130x130/6C6BBB/6C6BBB)
-![1](https://dummyimage.com/130x130/7E58DF/7E58DF) 
+![1](https://dummyimage.com/130x130/6C6BBB/6C6BBB) ![1](https://dummyimage.com/130x130/7E58DF/7E58DF) 
 
 **Electric Purple** (#7F00FF) **Soft Purple** (#887CD6)
 
-![1](https://dummyimage.com/130x130/7F00FF/7F00FF)
-![1](https://dummyimage.com/130x130/887CD6/887CD6)
+![1](https://dummyimage.com/130x130/7F00FF/7F00FF) ![1](https://dummyimage.com/130x130/887CD6/887CD6)
 
 **Deep Lavender** (#755FA4) **Dark Grape** (#57456A)
 
-![1](https://dummyimage.com/130x130/755FA4/755FA4)
-![1](https://dummyimage.com/130x130/57456A/57456A)
+![1](https://dummyimage.com/130x130/755FA4/755FA4) ![1](https://dummyimage.com/130x130/57456A/57456A)
 
 **Slate Grape** (#7D77A0) **Lavender** (#A573E6)
 
-![1](https://dummyimage.com/130x130/7D77A0/7D77A0)
-![1](https://dummyimage.com/130x130/A573E6/A573E6)
+![1](https://dummyimage.com/130x130/7D77A0/7D77A0) ![1](https://dummyimage.com/130x130/A573E6/A573E6)
 
 **Lavender** (#A573E6) **Grape** (#9263B1)
 
-![1](https://dummyimage.com/130x130/A573E6/A573E6)
-![1](https://dummyimage.com/130x130/9263B1/9263B1)
+![1](https://dummyimage.com/130x130/A573E6/A573E6) ![1](https://dummyimage.com/130x130/9263B1/9263B1)
 
 **Dark Plum** (#550066) **Eminence** (#702E71)
 
-![1](https://dummyimage.com/130x130/550066/550066)
-![1](https://dummyimage.com/130x130/702E71/702E71)
+![1](https://dummyimage.com/130x130/550066/550066) ![1](https://dummyimage.com/130x130/702E71/702E71)
 
 **Dusty Mauve** (#8B6184) **Mauve** (#E0B0FF)
 
-![1](https://dummyimage.com/130x130/8B6184/8B6184)
-![1](https://dummyimage.com/130x130/E0B0FF/E0B0FF)
+![1](https://dummyimage.com/130x130/8B6184/8B6184) ![1](https://dummyimage.com/130x130/E0B0FF/E0B0FF)
 
 
 
+## Pink Toned
+
+**Magenta** (#DC46F0) **Pink** (#F355AF)
+
+![1](https://dummyimage.com/130x130/DC46F0/DC46F0) ![1](https://dummyimage.com/130x130/F355AF/F355AF)
+
+**Ruby** (#FC3A6A) **Deep Ruby** (#E91E63)
+
+![1](https://dummyimage.com/130x130/FC3A6A/FC3A6A) ![1](https://dummyimage.com/130x130/E91E63/E91E63)
+
+**Dark Raspberry** (#872657) **Jam** (#AA2E58)
+
+![1](https://dummyimage.com/130x130/872657/872657) ![1](https://dummyimage.com/130x130/AA2E58/AA2E58)
+
+**Dark Scarlet** (#991D3C) **Pink Mauve** (#F28B91)
+
+![1](https://dummyimage.com/130x130/991D3C/991D3C) ![1](https://dummyimage.com/130x130/F28B91/F28B91)
+
+**Pig Pink** (#EBA29E)
+
+![1](https://dummyimage.com/130x130/EBA29E/EBA29E)
 
 
 
