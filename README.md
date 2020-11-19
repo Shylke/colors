@@ -15,7 +15,7 @@ Cyan Toned | --- | 10
 Blue Toned | --- | 22 
 Indigo Toned | --- | 11
 Purple Toned | --- | 14
-Pink Toned | --- | 9
+Pink Toned | --- | 10
 Brown Toned | --- | 12 
 Monochrome Toned | --- | 11
 
@@ -279,21 +279,21 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/DC46F0/DC46F0) ![1](https://dummyimage.com/130x130/F355AF/F355AF) 
 
-**Ruby** (#FC3A6A) **Deep Ruby** (#E91E63) (#D5276A)
+**Ruby** (#FC3A6A) **Deep Ruby** (#E91E63) 
 
-![1](https://dummyimage.com/130x130/FC3A6A/FC3A6A) ![1](https://dummyimage.com/130x130/E91E63/E91E63) ![1](https://dummyimage.com/130x130/d5276a/d5276a)
+![1](https://dummyimage.com/130x130/FC3A6A/FC3A6A) ![1](https://dummyimage.com/130x130/E91E63/E91E63) 
 
-**Dark Raspberry** (#872657) **Jam** (#AA2E58)
+**Raspberry** (#D5276A) **Dark Raspberry** (#872657) 
 
-![1](https://dummyimage.com/130x130/872657/872657) ![1](https://dummyimage.com/130x130/AA2E58/AA2E58)
+![1](https://dummyimage.com/130x130/d5276a/d5276a) ![1](https://dummyimage.com/130x130/872657/872657) 
 
-**Dark Scarlet** (#991D3C) **Pink Mauve** (#F28B91)
+**Jam** (#AA2E58) **Dark Scarlet** (#991D3C)
 
-![1](https://dummyimage.com/130x130/991D3C/991D3C) ![1](https://dummyimage.com/130x130/F28B91/F28B91)
+![1](https://dummyimage.com/130x130/AA2E58/AA2E58) ![1](https://dummyimage.com/130x130/991D3C/991D3C) 
 
-**Pig Pink** (#EBA29E)
+ **Pink Mauve** (#F28B91) **Pig Pink** (#EBA29E)
 
-![1](https://dummyimage.com/130x130/EBA29E/EBA29E)
+![1](https://dummyimage.com/130x130/F28B91/F28B91) ![1](https://dummyimage.com/130x130/EBA29E/EBA29E)
 
 
 
