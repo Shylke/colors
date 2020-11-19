@@ -15,7 +15,7 @@ Cyan Toned | --- | 10
 Blue Toned | --- | 22 
 Indigo Toned | --- | 11
 Purple Toned | --- | 14
-Pink Toned | --- | 10
+Pink Toned | --- | 11
 Brown Toned | --- | 12 
 Monochrome Toned | --- | 11
 
