@@ -275,17 +275,17 @@ Monochrome Toned | --- | 11
 
 ## Pink Toned
 
-**Magenta** (#DC46F0) **Pink** (#F355AF) 
+**Purple Magenta** (#DC46F0) **Magenta** (#FF00AE) **Pink** (#F355AF) 
 
-![1](https://dummyimage.com/130x130/DC46F0/DC46F0) ![1](https://dummyimage.com/130x130/F355AF/F355AF) 
+![1](https://dummyimage.com/130x130/DC46F0/DC46F0) ![1](https://dummyimage.com/130x130/ff00ae/ff00ae) ![1](https://dummyimage.com/130x130/F355AF/F355AF) 
 
-**Ruby** (#FC3A6A) **Deep Ruby** (#E91E63) 
+**Dark Raspberry** (#872657) **Ruby** (#FC3A6A) 
 
-![1](https://dummyimage.com/130x130/FC3A6A/FC3A6A) ![1](https://dummyimage.com/130x130/E91E63/E91E63) 
+![1](https://dummyimage.com/130x130/872657/872657) ![1](https://dummyimage.com/130x130/FC3A6A/FC3A6A) 
 
-**Raspberry** (#D5276A) **Dark Raspberry** (#872657) 
+**Deep Ruby** (#E91E63) **Raspberry** (#D5276A) 
 
-![1](https://dummyimage.com/130x130/d5276a/d5276a) ![1](https://dummyimage.com/130x130/872657/872657) 
+![1](https://dummyimage.com/130x130/E91E63/E91E63) ![1](https://dummyimage.com/130x130/d5276a/d5276a) 
 
 **Jam** (#AA2E58) **Dark Scarlet** (#991D3C)
 
