@@ -17,7 +17,7 @@ Indigo Toned | --- | 11
 Purple Toned | --- | 18
 Pink Toned | --- | 12
 Brown Toned | --- | 12 
-Monochrome Toned | --- | 11
+Monochrome Toned | --- | 12
 
 <br>
 
@@ -247,11 +247,11 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/6C6BBB/6C6BBB) ![1](https://dummyimage.com/130x130/7E58DF/7E58DF) 
 
-**Electric Deep Purple** (#720FF) (#7F00FF)
+**Electric Purple** (#720FF) (#7F00FF)
 
 ![1](https://dummyimage.com/130x130/7200ff/7200ff) ![1](https://dummyimage.com/130x130/7F00FF/7F00FF)  
 
- **Electric Purple** (#9601FF) (#9400FF) 
+ **Electric Violet** (#9601FF) (#9400FF) 
 
 ![1](https://dummyimage.com/130x130/9601ff/9601ff) ![1](https://dummyimage.com/130x130/9400ff/9400ff) 
 
@@ -263,10 +263,10 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/755FA4/755FA4) ![1](https://dummyimage.com/130x130/57456A/57456A)
 
-**Slate Grape** (#7D77A0) **Lavender** (#A573E6)
+**Slate Grape** (#7D77A0) **Lavender** (#A573E6) 
 
 ![1](https://dummyimage.com/130x130/7D77A0/7D77A0) ![1](https://dummyimage.com/130x130/A573E6/A573E6)
-
+ 
 **Grape** (#9263B1) **Violet** (#71368A)
 
 ![1](https://dummyimage.com/130x130/9263B1/9263B1) ![1](https://dummyimage.com/130x130/71368A/71368A)
@@ -275,9 +275,9 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/550066/550066) ![1](https://dummyimage.com/130x130/702E71/702E71)
 
-**Plum** (#921A8F) <!-- Blaze's Color -->
+**Plum** (#921A8F) <!-- Blaze's Color --> **Bright Mauve** (#CD84FC)
 
-![1](https://dummyimage.com/130x130/921a8f/921a8f) 
+![1](https://dummyimage.com/130x130/921a8f/921a8f) ![1](https://dummyimage.com/130x130/cd84fc/cd84fc)
 
 **Dusty Mauve** (#8B6184) **Mauve** (#E0B0FF)
 
@@ -358,13 +358,13 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/95a5a6/95a5a6) ![1](https://dummyimage.com/130x130/979c9f/979c9f)
 
-**Dark Grey** (#757575)
+**Dark Grey** (#757575) **Dark Metal** (#4C6876)
 
-![1](https://dummyimage.com/130x130/757575/757575)
+![1](https://dummyimage.com/130x130/757575/757575) ![1](https://dummyimage.com/130x130/4c6876/4c6876)
 
-**Coal** (#181818) (#1F1F1F) <!-- Noemi's Color -->
+**Coal** (#1F1F1F) <!-- Noemi's Color --> (#181818) 
 
-![1](https://dummyimage.com/130x130/181818/181818) ![1](https://dummyimage.com/130x130/1f1f1f/1f1f1f)
+![1](https://dummyimage.com/130x130/1f1f1f/1f1f1f) ![1](https://dummyimage.com/130x130/181818/181818) 
 
 **Jet Black** (#101222) <!-- Scythe's Color --> **Pure Black** (#000000) <!-- Moon's Color -->
 
