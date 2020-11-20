@@ -267,6 +267,10 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/550066/550066) ![1](https://dummyimage.com/130x130/702E71/702E71)
 
+**Plum** (#921A8F) <!-- Blaze's Color -->
+
+![1](https://dummyimage.com/130x130/921a8f/921a8f) 
+
 **Dusty Mauve** (#8B6184) **Mauve** (#E0B0FF)
 
 ![1](https://dummyimage.com/130x130/8B6184/8B6184) ![1](https://dummyimage.com/130x130/E0B0FF/E0B0FF)
@@ -279,9 +283,9 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/DC46F0/DC46F0) ![1](https://dummyimage.com/130x130/ff00ae/ff00ae) 
 
-**Pink** (#F355AF) 921a8f
+**Pink** (#F355AF) **Light Pink** (#FF76F7)
 
-![1](https://dummyimage.com/130x130/F355AF/F355AF) ![1](https://dummyimage.com/130x130/921a8f/921a8f) 
+![1](https://dummyimage.com/130x130/F355AF/F355AF) ![1](https://dummyimage.com/130x130/ff76f7/ff76f7) 
 
 **Dark Raspberry** (#872657) **Ruby** (#FC3A6A) 
 
