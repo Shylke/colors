@@ -257,7 +257,7 @@ Monochrome Toned | --- | 12
 
 **Soft Purple** (#887CD6)
 
-![1](https://dummyimage.com/130x130/887CD6/887CD6)
+![1](https://dummyimage.com/130x130/887CD6/887CD6) 
 
 **Deep Lavender** (#755FA4) **Dark Grape** (#57456A)
 
@@ -267,9 +267,13 @@ Monochrome Toned | --- | 12
 
 ![1](https://dummyimage.com/130x130/7D77A0/7D77A0) ![1](https://dummyimage.com/130x130/A573E6/A573E6)
  
-**Grape** (#9263B1) **Violet** (#71368A)
+**Light Lavender** (#AC84FA) **Grape** (#9263B1) 
 
-![1](https://dummyimage.com/130x130/9263B1/9263B1) ![1](https://dummyimage.com/130x130/71368A/71368A)
+![1](https://dummyimage.com/130x130/ac84fa/ac84fa) ![1](https://dummyimage.com/130x130/9263B1/9263B1) 
+
+**Violet** (#71368A)
+
+![1](https://dummyimage.com/130x130/71368A/71368A)
 
 **Dark Plum** (#550066) **Eminence** (#702E71)
 
