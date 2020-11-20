@@ -263,6 +263,10 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/A573E6/A573E6) ![1](https://dummyimage.com/130x130/9263B1/9263B1)
 
+**Violet** (#71368A)
+
+![1](https://dummyimage.com/130x130/71368A/71368A)
+
 **Dark Plum** (#550066) **Eminence** (#702E71)
 
 ![1](https://dummyimage.com/130x130/550066/550066) ![1](https://dummyimage.com/130x130/702E71/702E71)
