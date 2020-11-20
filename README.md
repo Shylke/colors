@@ -275,9 +275,13 @@ Monochrome Toned | --- | 11
 
 ## Pink Toned
 
-**Purple Magenta** (#DC46F0) **Magenta** (#FF00AE) **Pink** (#F355AF) 
+**Purple Magenta** (#DC46F0) **Magenta** (#FF00AE) 
 
-![1](https://dummyimage.com/130x130/DC46F0/DC46F0) ![1](https://dummyimage.com/130x130/ff00ae/ff00ae) ![1](https://dummyimage.com/130x130/F355AF/F355AF) 
+![1](https://dummyimage.com/130x130/DC46F0/DC46F0) ![1](https://dummyimage.com/130x130/ff00ae/ff00ae) 
+
+**Pink** (#F355AF) 921a8f
+
+![1](https://dummyimage.com/130x130/F355AF/F355AF) ![1](https://dummyimage.com/130x130/921a8f/921a8f) 
 
 **Dark Raspberry** (#872657) **Ruby** (#FC3A6A) 
 
@@ -309,23 +313,19 @@ Monochrome Toned | --- | 11
 
 **Desert** (#D8AB51) **Desert Rose** (#c0836E)
  
-![1](https://dummyimage.com/130x130/d8ab51/d8ab51) 
-![1](https://dummyimage.com/130x130/C0836E/C0836E)
+![1](https://dummyimage.com/130x130/d8ab51/d8ab51) ![1](https://dummyimage.com/130x130/C0836E/C0836E)
 
 **Chocolate** (#815235) **Brown** (#532A00)
 
-![1](https://dummyimage.com/130x130/815235/815235)
-![1](https://dummyimage.com/130x130/532a00/532a00)
+![1](https://dummyimage.com/130x130/815235/815235) ![1](https://dummyimage.com/130x130/532a00/532a00)
 
 **Burnt Bricks** (#7A3D44) **Burnt Umber** (#290909)
 
-![1](https://dummyimage.com/130x130/7a3d44/7a3d44)
-![1](https://dummyimage.com/130x130/290909/290909)
+![1](https://dummyimage.com/130x130/7a3d44/7a3d44) ![1](https://dummyimage.com/130x130/290909/290909)
 
 **Beige** (#B0AC94) **Ivory** (#EAE9BF) <!-- Zephyr's Color -->
 
-![1](https://dummyimage.com/130x130/b0ac94/b0ac94)
-![1](https://dummyimage.com/130x130/eae9bf/eae9bf)
+![1](https://dummyimage.com/130x130/b0ac94/b0ac94) ![1](https://dummyimage.com/130x130/eae9bf/eae9bf)
 
 
 
