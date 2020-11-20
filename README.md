@@ -243,13 +243,17 @@ Monochrome Toned | --- | 11
 
 ## Purple Toned 
 
-**Deep Purple** (#6C6BBB) **Purple** (#7E58DF) 
+**Dusty Purple** (#6C6BBB) **Purple** (#7E58DF) 
 
 ![1](https://dummyimage.com/130x130/6C6BBB/6C6BBB) ![1](https://dummyimage.com/130x130/7E58DF/7E58DF) 
 
-**Electric Dark Purple** (#7200ff) **Electric Deep Purple** (#7F00FF) **Electric Purple** (#9601FF)
+**Electric Deep Purple** (#720FF) (#7F00FF)
 
-![1](https://dummyimage.com/130x130/7200ff/7200ff) ![1](https://dummyimage.com/130x130/7F00FF/7F00FF) ![1](https://dummyimage.com/130x130/9601ff/9601ff) 
+![1](https://dummyimage.com/130x130/7200ff/7200ff) ![1](https://dummyimage.com/130x130/7F00FF/7F00FF)  
+
+ **Electric Purple** (#9601FF) (#9400FF) 
+
+![1](https://dummyimage.com/130x130/9601ff/9601ff) ![1](https://dummyimage.com/130x130/9400ff/9400ff) 
 
 **Soft Purple** (#887CD6)
 
