@@ -14,8 +14,8 @@ Green Toned | --- | 13
 Cyan Toned | --- | 10
 Blue Toned | --- | 22 
 Indigo Toned | --- | 11
-Purple Toned | --- | 14
-Pink Toned | --- | 11
+Purple Toned | --- | 18
+Pink Toned | --- | 12
 Brown Toned | --- | 12 
 Monochrome Toned | --- | 11
 
