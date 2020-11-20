@@ -1,7 +1,7 @@
 <div align=center>
 
 # Colors
-Just a simple HTML site that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
+Just a simple list that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
 
 <br>
 
@@ -243,13 +243,17 @@ Monochrome Toned | --- | 11
 
 ## Purple Toned 
 
-**Deep Purple** (#6C6BBB) **Purple** (#7E58DF)
+**Deep Purple** (#6C6BBB) **Purple** (#7E58DF) 
 
 ![1](https://dummyimage.com/130x130/6C6BBB/6C6BBB) ![1](https://dummyimage.com/130x130/7E58DF/7E58DF) 
 
-**Electric Purple** (#7F00FF) **Soft Purple** (#887CD6)
+**Electric Dark Purple** (#7200ff) **Electric Deep Purple** (#7F00FF) **Electric Purple** (#9601FF)
 
-![1](https://dummyimage.com/130x130/7F00FF/7F00FF) ![1](https://dummyimage.com/130x130/887CD6/887CD6)
+![1](https://dummyimage.com/130x130/7200ff/7200ff) ![1](https://dummyimage.com/130x130/7F00FF/7F00FF) ![1](https://dummyimage.com/130x130/9601ff/9601ff) 
+
+**Soft Purple** (#887CD6)
+
+![1](https://dummyimage.com/130x130/887CD6/887CD6)
 
 **Deep Lavender** (#755FA4) **Dark Grape** (#57456A)
 
@@ -259,13 +263,9 @@ Monochrome Toned | --- | 11
 
 ![1](https://dummyimage.com/130x130/7D77A0/7D77A0) ![1](https://dummyimage.com/130x130/A573E6/A573E6)
 
-**Lavender** (#A573E6) **Grape** (#9263B1)
+**Grape** (#9263B1) **Violet** (#71368A)
 
-![1](https://dummyimage.com/130x130/A573E6/A573E6) ![1](https://dummyimage.com/130x130/9263B1/9263B1)
-
-**Violet** (#71368A)
-
-![1](https://dummyimage.com/130x130/71368A/71368A)
+![1](https://dummyimage.com/130x130/9263B1/9263B1) ![1](https://dummyimage.com/130x130/71368A/71368A)
 
 **Dark Plum** (#550066) **Eminence** (#702E71)
 
