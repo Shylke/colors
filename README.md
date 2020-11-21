@@ -17,7 +17,7 @@ Indigo Toned | --- | 11
 Purple Toned | --- | 18
 Pink Toned | --- | 12
 Brown Toned | --- | 12 
-Monochrome Toned | --- | 12
+Monochrome Toned | --- | 14
 
 <br>
 
@@ -354,13 +354,13 @@ Monochrome Toned | --- | 12
 
 ![1](https://dummyimage.com/130x130/ffffff/ffffff) ![1](https://dummyimage.com/130x130/ecf0f1/ecf0f1) 
 
-**Shining Silver** (#F0F0F0)
+**Shining Silver** (#F0F0F0) **Light Grey** (#D2D2D2) <!-- Phantasma's Color -->
 
-![1](https://dummyimage.com/130x130/f0f0f0/f0f0f0) 
+![1](https://dummyimage.com/130x130/f0f0f0/f0f0f0) ![1](https://dummyimage.com/130x130/d2d2d2/d2d2d2) 
 
-**Light Grey** (#D2D2D2) <!-- Phantasma's Color --> **Silver** (#BBC6CC) 
+ **Silver** (#BDC3C7) (#BBC6CC) 
 
-![1](https://dummyimage.com/130x130/d2d2d2/d2d2d2) ![1](https://dummyimage.com/130x130/bbc6cc/bbc6cc) 
+![1](https://dummyimage.com/130x130/bdc3c7/bdc3c7) ![1](https://dummyimage.com/130x130/bbc6cc/bbc6cc) 
 
 **Metal** (#95A5A6) **Grey** (#979C9F)
 
