@@ -312,6 +312,7 @@ Monochrome Toned | --- | 14
 ![1](https://dummyimage.com/130x130/AA2E58/AA2E58) ![1](https://dummyimage.com/130x130/991D3C/991D3C) 
 
 **Light Ruby** (#FC476A)
+
 ![1](https://dummyimage.com/130x130/fc476a/fc476a) 
 
  **Pink Mauve** (#F28B91) **Pig Pink** (#EBA29E)
