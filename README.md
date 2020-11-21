@@ -350,9 +350,13 @@ Monochrome Toned | --- | 12
 
 ## Monochrome Toned
 
-**Pure White** (#FFFFFF) **Shining Silver** (#F0F0F0)
+**Pure White** (#FFFFFF) **Cloud** (#ECF0F1)
 
-![1](https://dummyimage.com/130x130/ffffff/ffffff) ![1](https://dummyimage.com/130x130/f0f0f0/f0f0f0)
+![1](https://dummyimage.com/130x130/ffffff/ffffff) ![1](https://dummyimage.com/130x130/ecf0f1/ecf0f1) 
+
+**Shining Silver** (#F0F0F0)
+
+![1](https://dummyimage.com/130x130/f0f0f0/f0f0f0) 
 
 **Light Grey** (#D2D2D2) <!-- Phantasma's Color --> **Silver** (#BBC6CC) 
 
