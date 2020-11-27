@@ -15,7 +15,7 @@ Cyan Toned | --- | 10
 Blue Toned | --- | 22 
 Indigo Toned | --- | 11
 Purple Toned | --- | 18
-Pink Toned | --- | 12
+Pink Toned | --- | 13
 Brown Toned | --- | 14 
 Monochrome Toned | --- | 14
 
@@ -139,9 +139,13 @@ Monochrome Toned | --- | 14
 
 ## Cyan Toned
 
-**Green Pearl** (#72EBAC) **Green Sea** (#16A085)
+**Green Pearl** (#72EBAC)  **Green Sea** (#1ABC9C)
 
-![1](https://dummyimage.com/130x130/72EBAC/72EBAC) ![1](https://dummyimage.com/130x130/16A085/16A085)
+![1](https://dummyimage.com/130x130/72EBAC/72EBAC)  ![1](https://dummyimage.com/130x130/1abc9c/1abc9c)
+
+**Dark Green Sea** (#16A085)
+
+![1](https://dummyimage.com/130x130/16A085/16A085)
 
 **Teal** (#50B5A1) **Dark Teal** (#5ABDA5)
 
@@ -295,7 +299,7 @@ Monochrome Toned | --- | 14
 
 ## Pink Toned
 
-**Purple Magenta** (#DC46F0) **Magenta** (#FF00AE) 
+**Purple Magenta** (#DC46F0) **Magenta** (#FF00AE) ad1457
 
 ![1](https://dummyimage.com/130x130/DC46F0/DC46F0) ![1](https://dummyimage.com/130x130/ff00ae/ff00ae) 
 
@@ -307,17 +311,17 @@ Monochrome Toned | --- | 14
 
 ![1](https://dummyimage.com/130x130/872657/872657) ![1](https://dummyimage.com/130x130/FC3A6A/FC3A6A) 
 
-**Deep Ruby** (#E91E63) **Raspberry** (#D5276A) 
+**Deep Ruby** (#E91E63)  **Bright Raspberry** ad1457
 
-![1](https://dummyimage.com/130x130/E91E63/E91E63) ![1](https://dummyimage.com/130x130/d5276a/d5276a) 
+![1](https://dummyimage.com/130x130/E91E63/E91E63)  ![1](https://dummyimage.com/130x130/ad1457/ad1457) 
 
-**Jam** (#AA2E58) **Dark Scarlet** (#991D3C) 
+**Raspberry** (#D5276A) **Jam** (#AA2E58)
 
-![1](https://dummyimage.com/130x130/AA2E58/AA2E58) ![1](https://dummyimage.com/130x130/991D3C/991D3C) 
+![1](https://dummyimage.com/130x130/d5276a/d5276a) ![1](https://dummyimage.com/130x130/AA2E58/AA2E58) 
 
-**Light Ruby** (#FC476A)
+**Dark Scarlet** (#991D3C) **Light Ruby** (#FC476A) 
 
-![1](https://dummyimage.com/130x130/fc476a/fc476a) 
+![1](https://dummyimage.com/130x130/991D3C/991D3C) ![1](https://dummyimage.com/130x130/fc476a/fc476a)
 
  **Pink Mauve** (#F28B91) **Pig Pink** (#EBA29E)
 
