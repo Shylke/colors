@@ -7,7 +7,7 @@ Just a simple list that helps me keep track of color hexes. Currently there are 
 
 Hues | --- | Number
 --- | --- | ---
-Red Toned | --- | 14
+Red Toned | --- | 15
 Orange Toned | --- | 10
 Yellow Toned | --- | 10
 Green Toned | --- | 13
@@ -31,9 +31,13 @@ Monochrome Toned | --- | 14
 
 ![1](https://dummyimage.com/130x130/800000/800000) ![1](https://dummyimage.com/130x130/800101/800101)
 
-**Burnt Red** (#831F18) **Dark Red** (#CC0000) 
+**Burnt Red** (#831F18) **Terracotta** (#992D22)
 
-![1](https://dummyimage.com/130x130/831F18/831F18) ![1](https://dummyimage.com/130x130/cc0000/cc0000) 
+![1](https://dummyimage.com/130x130/831F18/831F18)  ![1](https://dummyimage.com/130x130/992d22/992d22) 
+
+**Dark Red** (#CC0000) 
+
+![1](https://dummyimage.com/130x130/cc0000/cc0000)
 
 **Blood Red** (#FF0000) **Watermelon** (#FF092A) <!-- Ace's Color --> 
 
