@@ -16,7 +16,7 @@ Blue Toned | --- | 22
 Indigo Toned | --- | 11
 Purple Toned | --- | 18
 Pink Toned | --- | 12
-Brown Toned | --- | 12 
+Brown Toned | --- | 14 
 Monochrome Toned | --- | 14
 
 <br>
@@ -335,7 +335,11 @@ Monochrome Toned | --- | 14
  
 ![1](https://dummyimage.com/130x130/d8ab51/d8ab51) ![1](https://dummyimage.com/130x130/C0836E/C0836E)
 
-**Chocolate** (#815235) **Brown** (#532A00)
+**Light Brown** (#C27C0E) **Caramel** (#A84300)
+
+![1](https://dummyimage.com/130x130/C27C0E/C27C0E) ![1](https://dummyimage.com/130x130/a84300/a84300)
+
+**Chocolate** (#815235) **Brown** (#532A00) 
 
 ![1](https://dummyimage.com/130x130/815235/815235) ![1](https://dummyimage.com/130x130/532a00/532a00)
 
