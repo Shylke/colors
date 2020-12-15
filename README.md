@@ -10,8 +10,8 @@ Hues | --- | Number
 Red Toned | --- | 16
 Orange Toned | --- | 10
 Yellow Toned | --- | 10
-Green Toned | --- | 13
-Cyan Toned | --- | 10
+Green Toned | --- | 14
+Cyan Toned | --- | 11
 Blue Toned | --- | 22 
 Indigo Toned | --- | 11
 Purple Toned | --- | 18
@@ -35,25 +35,21 @@ Monochrome Toned | --- | 14
 
 ![1](https://dummyimage.com/130x130/831F18/831F18)  ![1](https://dummyimage.com/130x130/992d22/992d22) 
 
-**Dark Red** (#CC0000) 
+**Dark Red** (#CC0000) **Blood Red** (#FF0000)
 
-![1](https://dummyimage.com/130x130/cc0000/cc0000)
+![1](https://dummyimage.com/130x130/cc0000/cc0000) ![1](https://dummyimage.com/130x130/ff0000/ff0000)
 
-**Blood Red** (#FF0000) **Watermelon** (#FF092A) <!-- Ace's Color --> 
+ **Watermelon** (#FF092A) <!-- Ace's Color --> **Vermillion** (#E34234)
 
-![1](https://dummyimage.com/130x130/ff0000/ff0000) ![1](https://dummyimage.com/130x130/ff092a/ff092a)
+ ![1](https://dummyimage.com/130x130/ff092a/ff092a) ![1](https://dummyimage.com/130x130/e34234/e34234)
 
-**Vermillion** (#E34234) **Crimson** (#D14141)
+ **Crimson** (#D14141) **Amaranth** (#E03F54)
 
-![1](https://dummyimage.com/130x130/e34234/e34234) ![1](https://dummyimage.com/130x130/d14141/d14141)
+ ![1](https://dummyimage.com/130x130/d14141/d14141) ![1](https://dummyimage.com/130x130/e03f54/e03f54)
 
-**Amaranth** (#E03F54) **Red** (#E74C3C)
+ **Red** (#E74C3C) **Bright Salmon** (#F35757)
 
-![1](https://dummyimage.com/130x130/e03f54/e03f54) ![1](https://dummyimage.com/130x130/e74c3c/e74c3c)
-
-**Bright Salmon**(#F35757)
-
-![1](https://dummyimage.com/130x130/f35757/f35757)
+ ![1](https://dummyimage.com/130x130/e74c3c/e74c3c) ![1](https://dummyimage.com/130x130/f35757/f35757)
 
 **Crude Salmon** (#EB6161) **Salmon** (#F3785C)
 
@@ -127,17 +123,17 @@ Monochrome Toned | --- | 14
 
 ![1](https://dummyimage.com/130x130/92ff86/92ff86) ![1](https://dummyimage.com/130x130/94fd24/94fd24)
 
-**Electric Green** (#00FF00) 
+**Electric Green** (#00FF00) **Booger Green** (#6BE05F)
 
-![1](https://dummyimage.com/130x130/00ff00/00ff00) 
+![1](https://dummyimage.com/130x130/00ff00/00ff00) ![1](https://dummyimage.com/130x130/6be05f/6be05f)
 
-**Booger Green** (#6BE05F) **Forest Green** (#47C767)
+**Forest Green** (#47C767) **Emerald** (#2ECC71)
 
-![1](https://dummyimage.com/130x130/6be05f/6be05f) ![1](https://dummyimage.com/130x130/47c767/47c767)
+![1](https://dummyimage.com/130x130/47c767/47c767) ![1](https://dummyimage.com/130x130/2ecc71/2ecc71)
 
-**Emerald** (#2ECC71) **Dark Green** (#0F9B3E)
+ **Dark Green** (#0F9B3E) **Dark Forest Green** (#1F8B4C)
 
-![1](https://dummyimage.com/130x130/2ecc71/2ecc71) ![1](https://dummyimage.com/130x130/0f9b3e/0f9b3e)
+![1](https://dummyimage.com/130x130/0f9b3e/0f9b3e) ![1](https://dummyimage.com/130x130/1f8b4c/1f8b4c) 
 
 
 
@@ -147,9 +143,9 @@ Monochrome Toned | --- | 14
 
 ![1](https://dummyimage.com/130x130/72EBAC/72EBAC)  ![1](https://dummyimage.com/130x130/1abc9c/1abc9c)
 
-**Dark Green Sea** (#16A085)
+**Deep Green Sea** (#16A085) **Dark Green Sea** (#11806A)
 
-![1](https://dummyimage.com/130x130/16A085/16A085)
+![1](https://dummyimage.com/130x130/16A085/16A085) ![1](https://dummyimage.com/130x130/11806a/11806a)
 
 **Teal** (#50B5A1) **Dark Teal** (#5ABDA5)
 
