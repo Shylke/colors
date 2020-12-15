@@ -7,7 +7,7 @@ Just a simple list that helps me keep track of color hexes. Currently there are 
 
 Hues | --- | Number
 --- | --- | ---
-Red Toned | --- | 15
+Red Toned | --- | 16
 Orange Toned | --- | 10
 Yellow Toned | --- | 10
 Green Toned | --- | 13
@@ -23,13 +23,9 @@ Monochrome Toned | --- | 14
 
 ## Red Toned
 
-**Bad Blood** (#530E0F) <!-- Grunge's Color -->  **Wine** (#7A3D44)
+**Bad Blood** (#530E0F) <!-- Grunge's Color -->  **Scarlet** (#7B1C22)
 
-![1](https://dummyimage.com/130x130/530e0f/530e0f) ![1](https://dummyimage.com/130x130/7a3d44/7a3d44)
-
-**Scarlet** (#7B1C22)
-
-![1](https://dummyimage.com/130x130/7b1c22/7b1c22)
+![1](https://dummyimage.com/130x130/530e0f/530e0f) ![1](https://dummyimage.com/130x130/7b1c22/7b1c22)
 
 **Maroon** (#800000) (#800101) <!-- Reverie's Color -->
 
@@ -51,9 +47,13 @@ Monochrome Toned | --- | 14
 
 ![1](https://dummyimage.com/130x130/e34234/e34234) ![1](https://dummyimage.com/130x130/d14141/d14141)
 
-**Amaranth** (#E03F54) **Red** (#F35757)
+**Amaranth** (#E03F54) **Red** (#E74C3C)
 
-![1](https://dummyimage.com/130x130/e03f54/e03f54) ![1](https://dummyimage.com/130x130/f35757/f35757)
+![1](https://dummyimage.com/130x130/e03f54/e03f54) ![1](https://dummyimage.com/130x130/e74c3c/e74c3c)
+
+**Bright Salmon**(#F35757)
+
+![1](https://dummyimage.com/130x130/f35757/f35757)
 
 **Crude Salmon** (#EB6161) **Salmon** (#F3785C)
 
