@@ -1,7 +1,7 @@
 <div align=center>
 
 # Colors
-Just a simple list that helps me keep track of color hexes. Currently there are **???** different colors listed. (Previously: 87)
+Just a simple list that helps me keep track of color hexes. Currently there are **???** different colors listed.
 
 <br>
 
@@ -23,9 +23,13 @@ Monochrome Toned | --- | 14
 
 ## Red Toned
 
-**Bad Blood** (#530E0F) <!-- Grunge's Color --> **Scarlet** (#7B1C22)
+**Bad Blood** (#530E0F) <!-- Grunge's Color -->  **Wine** (#7A3D44)
 
-![1](https://dummyimage.com/130x130/530e0f/530e0f) ![1](https://dummyimage.com/130x130/7b1c22/7b1c22)
+![1](https://dummyimage.com/130x130/530e0f/530e0f) ![1](https://dummyimage.com/130x130/7a3d44/7a3d44)
+
+**Scarlet** (#7B1C22)
+
+![1](https://dummyimage.com/130x130/7b1c22/7b1c22)
 
 **Maroon** (#800000) (#800101) <!-- Reverie's Color -->
 
@@ -299,7 +303,7 @@ Monochrome Toned | --- | 14
 
 ## Pink Toned
 
-**Purple Magenta** (#DC46F0) **Magenta** (#FF00AE) ad1457
+**Purple Magenta** (#DC46F0) **Magenta** (#FF00AE) 
 
 ![1](https://dummyimage.com/130x130/DC46F0/DC46F0) ![1](https://dummyimage.com/130x130/ff00ae/ff00ae) 
 
@@ -311,7 +315,7 @@ Monochrome Toned | --- | 14
 
 ![1](https://dummyimage.com/130x130/872657/872657) ![1](https://dummyimage.com/130x130/FC3A6A/FC3A6A) 
 
-**Deep Ruby** (#E91E63)  **Bright Raspberry** ad1457
+**Deep Ruby** (#E91E63)  **Bright Raspberry** (#AD1457)
 
 ![1](https://dummyimage.com/130x130/E91E63/E91E63)  ![1](https://dummyimage.com/130x130/ad1457/ad1457) 
 
@@ -390,9 +394,5 @@ Monochrome Toned | --- | 14
 **Jet Black** (#101222) <!-- Scythe's Color --> **Pure Black** (#000000) <!-- Moon's Color -->
 
 ![1](https://dummyimage.com/130x130/101222/101222) ![1](https://dummyimage.com/130x130/000000/000000)
-
-
-
-
 
 </div>
