@@ -8,7 +8,7 @@ Just a simple list that helps me keep track of color hexes. Currently there are 
 Hues | --- | Number
 --- | --- | ---
 Red Toned | --- | 16
-Orange Toned | --- | 10
+Orange Toned | --- | 11
 Yellow Toned | --- | 10
 Green Toned | --- | 14
 Cyan Toned | --- | 11
@@ -17,7 +17,7 @@ Indigo Toned | --- | 11
 Purple Toned | --- | 19
 Pink Toned | --- | 13
 Brown Toned | --- | 14 
-Monochrome Toned | --- | 14
+Monochrome Toned | --- | 16
 
 <br>
 
@@ -71,9 +71,13 @@ Monochrome Toned | --- | 14
 
 ![1](https://dummyimage.com/130x130/ff6f0d/ff6f0d) ![1](https://dummyimage.com/130x130/fc7500/fc7500) 
 
-**Vixen Orange** (#FF812F) **Light Orange** (#FD9418)
+**Autumn** (#E67E22) **Vixen Orange** (#FF812F)  
 
-![1](https://dummyimage.com/130x130/ff812f/ff812f) ![1](https://dummyimage.com/130x130/fd9418/fd9418)
+![1](https://dummyimage.com/130x130/e67e22/e67e22) ![1](https://dummyimage.com/130x130/ff812f/ff812f) 
+
+**Light Orange** (#FD9418)
+
+![1](https://dummyimage.com/130x130/fd9418/fd9418) 
 
 **Tangerine** (#FFB44E) **Honey Topaz** (#F6C57F)
 
@@ -375,13 +379,17 @@ Monochrome Toned | --- | 14
 
 ![1](https://dummyimage.com/130x130/bdc3c7/bdc3c7) ![1](https://dummyimage.com/130x130/bbc6cc/bbc6cc) 
 
-**Metal** (#95A5A6) **Grey** (#979C9F)
+**Metal** (#95A5A6) **Grey** (#979C9F) 
 
-![1](https://dummyimage.com/130x130/95a5a6/95a5a6) ![1](https://dummyimage.com/130x130/979c9f/979c9f)
+![1](https://dummyimage.com/130x130/95a5a6/95a5a6) ![1](https://dummyimage.com/130x130/979c9f/979c9f) 
 
-**Dark Grey** (#757575) **Dark Metal** (#4C6876)
+**Dark Grey** (#757575) 
 
-![1](https://dummyimage.com/130x130/757575/757575) ![1](https://dummyimage.com/130x130/4c6876/4c6876)
+![1](https://dummyimage.com/130x130/757575/757575) 
+
+**Dark Metal** (#4C6876) (#607D8B) (#546E7A)
+
+![1](https://dummyimage.com/130x130/4c6876/4c6876) ![1](https://dummyimage.com/130x130/607d8b/607d8b) ![1](https://dummyimage.com/130x130/546e7a/546e7a)
 
 **Coal** (#1F1F1F) <!-- Noemi's Color --> (#181818) 
 
