@@ -14,7 +14,7 @@ Green Toned | --- | 14
 Cyan Toned | --- | 11
 Blue Toned | --- | 22 
 Indigo Toned | --- | 11
-Purple Toned | --- | 18
+Purple Toned | --- | 19
 Pink Toned | --- | 13
 Brown Toned | --- | 14 
 Monochrome Toned | --- | 14
@@ -279,9 +279,9 @@ Monochrome Toned | --- | 14
 
 ![1](https://dummyimage.com/130x130/ac84fa/ac84fa) ![1](https://dummyimage.com/130x130/9263B1/9263B1) 
 
-**Violet** (#71368A)
+**Violet** (#71368A) **Light Violet** (#9B59B6)
 
-![1](https://dummyimage.com/130x130/71368A/71368A)
+![1](https://dummyimage.com/130x130/71368A/71368A) ![1](https://dummyimage.com/130x130/9b59b6/9b59b6) 
 
 **Dark Plum** (#550066) **Eminence** (#702E71)
 
