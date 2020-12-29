@@ -12,7 +12,7 @@ Orange Toned | --- | 11
 Yellow Toned | --- | 10
 Green Toned | --- | 14
 Cyan Toned | --- | 11
-Blue Toned | --- | 22 
+Blue Toned | --- | 23 
 Indigo Toned | --- | 11
 Purple Toned | --- | 19
 Pink Toned | --- | 13
@@ -183,13 +183,17 @@ Monochrome Toned | --- | 16
 
 ![1](https://dummyimage.com/130x130/53CCFF/53CCFF) ![1](https://dummyimage.com/130x130/56BFF7/56BFF7) 
 
-**Atlas Blue** (#3AC1E9) **Vivid Blue** (#1FA0FF) <!-- Starlight's Color --> 
+**Atlas Blue** (#3AC1E9) **Light Blue** (#3498DB)
 
-![1](https://dummyimage.com/130x130/3AC1E9/3AC1E9) ![1](https://dummyimage.com/130x130/1fa0ff/1fa0ff) 
+![1](https://dummyimage.com/130x130/3AC1E9/3AC1E9) ![1](https://dummyimage.com/130x130/3498db/3498db) 
+
+**Vivid Blue** (#1FA0FF) <!-- Starlight's Color -->
+
+![1](https://dummyimage.com/130x130/1fa0ff/1fa0ff)  
 
 **Azure** (#007FFF) **Salty Sea Blue** (#2491B3)
 
-![1](https://dummyimage.com/130x130/007FFF/007FFF) ![1](https://dummyimage.com/130x130/2491B3/2491B3)
+![1](https://dummyimage.com/130x130/007FFF/007FFF) ![1](https://dummyimage.com/130x130/2491B3/2491B3) 
 
 **Metallic Blue** (#3182A0) (#276580)
 
@@ -199,9 +203,9 @@ Monochrome Toned | --- | 16
 
 ![1](https://dummyimage.com/130x130/006b88/006b88) ![1](https://dummyimage.com/130x130/476E8E/476E8E)
 
-**Light Cobalt Blue** (#79A8DA)
+**Light Cobalt Blue** (#79A8DA) 
 
-![1](https://dummyimage.com/130x130/79a8da/79a8da) 
+![1](https://dummyimage.com/130x130/79a8da/79a8da) ![1](https://dummyimage.com/130x130/3498db/3498db)
 
 **Medium Azure** (#4B92DB) **Cobalt Blue** (#376CF3) 
 
