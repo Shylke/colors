@@ -1,3 +1,13 @@
+<div align=center>
+
+# Colors
+
+Hues | --- | Number
+--- | --- | ---
+Red Toned | --- | 16
+
+<br>
+
 ## Orange Toned
 
 **Medium Vermillion** (#D9603B) **Light Porcelain** (#F58E50)
@@ -23,3 +33,5 @@
 **Tangerine** (#FFB44E) **Honey Topaz** (#F6C57F)
 
 ![1](https://fakeimg.pl/130x130/FFB44E/?text=%20) ![1](https://fakeimg.pl/130x130/F6C57F/?text=%20)
+
+</div>
