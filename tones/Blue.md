@@ -1,3 +1,13 @@
+<div align=center>
+
+# Colors
+
+Hues | --- | Number
+--- | --- | ---
+Blue Toned | --- | 26
+
+<br>
+
 ## Blue Toned
 
 **Pale Azure** (#F0FFFF) **Pond** (#D1DDFF) 
@@ -59,3 +69,5 @@
 **Navy** (#000058)
 
 ![1](https://fakeimg.pl/130x130/000058/?text=%20)
+
+</div>
