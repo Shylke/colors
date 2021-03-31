@@ -7,7 +7,7 @@ Just a simple list that helps me keep track of color hexes. Currently there are 
 
 Hues | --- | Number
 --- | --- | ---
-Red Toned | --- | 16
+Red Toned | --- | 15
 Orange Toned | --- | 11
 Yellow Toned | --- | 10
 Green Toned | --- | 14
