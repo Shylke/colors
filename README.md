@@ -21,55 +21,27 @@ Monochrome Toned | --- | 16
 
 <br>
 
-## Orange Toned
-
-**Medium Vermillion** (#D9603B) **Light Porcelain** (#F58E50)
-
-![1](https://fakeimg.pl/130x130/D9603B/?text=%20) ![1](https://fakeimg.pl/130x130/F58E50/?text=%20)
-
-**Red Orange** (#FF3700) **Pumpkin** (#D35400)
-
-![1](https://fakeimg.pl/130x130/FF3700/?text=%20) ![1](https://fakeimg.pl/130x130/D35400/?text=%20)
-
-**Deep Orange** (#FF8F0D) **Orange** (#FC7500) 
-
-![1](https://fakeimg.pl/130x130/FF8F0D/?text=%20) ![1](https://fakeimg.pl/130x130/FC7500/?text=%20)
-
-**Autumn** (#E67E22) **Vixen Orange** (#FF812F)  
-
-![1](https://fakeimg.pl/130x130/E67E22/?text=%20) ![1](https://fakeimg.pl/130x130/FF812F/?text=%20)
-
-**Light Orange** (#FD9418)
-
-![1](https://fakeimg.pl/130x130/FD9418/?text=%20)
-
-**Tangerine** (#FFB44E) **Honey Topaz** (#F6C57F)
-
-![1](https://fakeimg.pl/130x130/FFB44E/?text=%20) ![1](https://fakeimg.pl/130x130/F6C57F/?text=%20)
-
-
-
 ## Yellow Toned
 
 **Gold** (#FFBC2C) **Mustard** (#F1C40F)
 
-![1](https://dummyimage.com/130x130/ffbc2c/ffbc2c) ![1](https://dummyimage.com/130x130/f1c40f/f1c40f)
+![1](https://fakeimg.pl/130x130/FFBC2C/?text=%20) ![1](https://fakeimg.pl/130x130/F1C40F/?text=%20)
 
 **Sunflower** (#F7D937) **Minion Yellow** (#F5E050) 
 
-![1](https://dummyimage.com/130x130/f7d937/f7d937) ![1](https://dummyimage.com/130x130/f5e050/f5e050) 
+![1](https://fakeimg.pl/130x130/F7D937/?text=%20) ![1](https://fakeimg.pl/130x130/F5E050/?text=%20)
 
 **Yellow** (#FFEE00) **Light Yellow** (#FFFF4A)
 
-![1](https://dummyimage.com/130x130/ffee00/ffee00) ![1](https://dummyimage.com/130x130/ffff4a/ffff4a)
+![1](https://fakeimg.pl/130x130/FFEE00/?text=%20) ![1](https://fakeimg.pl/130x130/FFFF4A/?text=%20)
 
 **Lemon** (#FFFD82) (#FFF581) 
 
-![1](https://dummyimage.com/130x130/fffd82/fffd82) ![1](https://dummyimage.com/130x130/fff581/fff581) 
+![1](https://fakeimg.pl/130x130/FFFD82/?text=%20) ![1](https://fakeimg.pl/130x130/FFF581/?text=%20)
 
-**Primrose** (#E9EB7B) **Dark Primrose** (#C7C13D) <!-- Topaz's Color -->
+**Primrose** (#E9EB7B) **Dark Primrose** (#C7C13D) 
 
-![1](https://dummyimage.com/130x130/e9eb7b/e9eb7b) ![1](https://dummyimage.com/130x130/c7c13d/c7c13d) 
+![1](https://fakeimg.pl/130x130/E9EB7B/?text=%20) ![1](https://fakeimg.pl/130x130/C7C13D/?text=%20)
 
 
 
