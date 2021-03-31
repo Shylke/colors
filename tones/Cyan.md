@@ -4,7 +4,7 @@
 
 Hues | --- | Number
 --- | --- | ---
-Green Toned | --- | 12
+Cyan Toned | --- | 12
 
 <br>
 
