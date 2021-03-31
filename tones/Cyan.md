@@ -1,3 +1,13 @@
+<div align=center>
+
+# Colors
+
+Hues | --- | Number
+--- | --- | ---
+Green Toned | --- | 12
+
+<br>
+
 ## Cyan Toned
 
 **Green Pearl** (#72EBAC)  **Green Sea** (#1ABC9C)
