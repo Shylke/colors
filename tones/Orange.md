@@ -4,7 +4,7 @@
 
 Hues | --- | Number
 --- | --- | ---
-Red Toned | --- | 16
+Orange Toned | --- | 11
 
 <br>
 
