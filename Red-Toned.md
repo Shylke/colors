@@ -1,3 +1,5 @@
+<div align=center>
+
 # Red Toned
 
 **Bad Blood** (#530E0F) **Scarlet** (#7B1C22)
@@ -31,3 +33,5 @@
 **Crude Salmon** (#EB6161) **Salmon** (#F3785C)
 
 ![1](https://fakeimg.pl/130x130/EB6161/?text=%20) ![1](https://fakeimg.pl/130x130/F3785C/?text=%20)
+
+</div>
