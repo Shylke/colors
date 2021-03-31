@@ -1,3 +1,5 @@
+# Colors
+
 <div align=center>
 
 Hues | --- | Number
@@ -6,7 +8,7 @@ Red Toned | --- | 16
 
 <br>
 
-# Red Toned
+## Red Toned
 
 **Bad Blood** (#530E0F) **Scarlet** (#7B1C22)
 
