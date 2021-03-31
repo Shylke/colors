@@ -1,6 +1,6 @@
-# Colors
-
 <div align=center>
+
+# Colors
 
 Hues | --- | Number
 --- | --- | ---
