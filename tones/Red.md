@@ -18,15 +18,11 @@ Red Toned | --- | 16
 
 ![1](https://fakeimg.pl/130x130/7B1C22/?text=%20) ![1](https://fakeimg.pl/130x130/831F18/?text=%20)
 
-**Terracotta** (#992D22)
-
-![1](https://fakeimg.pl/130x130/992D22/?text=%20)
-
-**Dark Red** (#992D22) **Blood Red** (#FF0000)
+**Terracotta** (#992D22) **Blood Red** (#FF0000)
 
 ![1](https://fakeimg.pl/130x130/992D22/?text=%20) ![1](https://fakeimg.pl/130x130/ff0000/?text=%20)
 
-**Watermelon** (#FF092A) <!-- R's Color --> **Vermillion** (#E34234)
+**Red** (#FF092A) <!-- R's Color --> **Vermillion** (#E34234)
 
 ![1](https://fakeimg.pl/130x130/FF092A/?text=%20) ![1](https://fakeimg.pl/130x130/E34234/?text=%20)
 
