@@ -59,7 +59,11 @@ Blue Toned | --- | 26
 ![1](https://fakeimg.pl/130x130/0044EB/?text=%20) ![1](https://fakeimg.pl/130x130/003FFF/?text=%20)
 
 
-## Dark Toned
+## Intense Toned
+
+**Blue** (#0044EB) **Royal Azure** (#003FFF)
+
+![1](https://fakeimg.pl/130x130/0044EB/?text=%20) ![1](https://fakeimg.pl/130x130/003FFF/?text=%20)
 
 **Electric Blue** (#0000FF) (#0000E1) <!-- G's Color -->
 
@@ -68,6 +72,10 @@ Blue Toned | --- | 26
 **Dark Azure** (#003399) **Deep Blue** (#0100AD) <!-- E's Color -->
 
 ![1](https://fakeimg.pl/130x130/003399/?text=%20) ![1](https://fakeimg.pl/130x130/0100AD/?text=%20)
+
+
+
+## Dark Toned
 
 **Navy** (#000058)
 
