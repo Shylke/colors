@@ -1,3 +1,13 @@
+<div align=center>
+
+# Colors
+
+Hues | --- | Number
+--- | --- | ---
+Green Toned | --- | 14
+
+<br>
+
 ## Green Toned
 
 **Lime** (#C0FF37) **Bitter Lemon** (#BCFC00)
