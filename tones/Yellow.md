@@ -1,3 +1,13 @@
+<div align=center>
+
+# Colors
+
+Hues | --- | Number
+--- | --- | ---
+Orange Toned | --- | 11
+
+<br>
+
 ## Yellow Toned
 
 **Gold** (#FFBC2C) **Mustard** (#F1C40F)
@@ -19,3 +29,5 @@
 **Primrose** (#E9EB7B) **Dark Primrose** (#C7C13D) 
 
 ![1](https://fakeimg.pl/130x130/E9EB7B/?text=%20) ![1](https://fakeimg.pl/130x130/C7C13D/?text=%20)
+
+</div>
