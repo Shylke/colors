@@ -14,13 +14,13 @@ Red Toned | --- | 16
 
 ![1](https://fakeimg.pl/130x130/530e0f/?text=%20) ![1](https://fakeimg.pl/130x130/800000/?text=%20) ![1](https://fakeimg.pl/130x130/800101/?text=%20)
 
-**Scarlet** (#7B1C22)
+**Scarlet** (#7B1C22) **Burnt Red** (#831F18)
 
-![1](https://fakeimg.pl/130x130/7B1C22/?text=%20)
+![1](https://fakeimg.pl/130x130/7B1C22/?text=%20) ![1](https://fakeimg.pl/130x130/831F18/?text=%20)
 
-**Burnt Red** (#831F18) **Terracotta** (#992D22)
+**Terracotta** (#992D22)
 
-![1](https://fakeimg.pl/130x130/831F18/?text=%20) ![1](https://fakeimg.pl/130x130/992D22/?text=%20)
+![1](https://fakeimg.pl/130x130/992D22/?text=%20)
 
 **Dark Red** (#992D22) **Blood Red** (#FF0000)
 
