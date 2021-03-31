@@ -10,13 +10,13 @@ Red Toned | --- | 16
 
 ## Red Toned
 
-**Bad Blood** (#530E0F) **Scarlet** (#7B1C22)
+**Bad Blood** (#530E0F) **Maroon** (#800000) (#800101) <!-- H's Color -->
 
-![1](https://fakeimg.pl/130x130/530e0f/?text=%20) ![1](https://fakeimg.pl/130x130/7B1C22/?text=%20)
+![1](https://fakeimg.pl/130x130/530e0f/?text=%20) ![1](https://fakeimg.pl/130x130/800000/?text=%20) ![1](https://fakeimg.pl/130x130/800101/?text=%20)
 
-**Maroon** (#800000) (#800101) <!-- Reverie's Color -->
+**Scarlet** (#7B1C22)
 
-![1](https://fakeimg.pl/130x130/800000/?text=%20) ![1](https://fakeimg.pl/130x130/800101/?text=%20)
+![1](https://fakeimg.pl/130x130/7B1C22/?text=%20)
 
 **Burnt Red** (#831F18) **Terracotta** (#992D22)
 
@@ -26,7 +26,7 @@ Red Toned | --- | 16
 
 ![1](https://fakeimg.pl/130x130/992D22/?text=%20) ![1](https://fakeimg.pl/130x130/ff0000/?text=%20)
 
- **Watermelon** (#FF092A) <!-- Ace's Color --> **Vermillion** (#E34234)
+**Watermelon** (#FF092A) <!-- R's Color --> **Vermillion** (#E34234)
 
 ![1](https://fakeimg.pl/130x130/FF092A/?text=%20) ![1](https://fakeimg.pl/130x130/E34234/?text=%20)
 
