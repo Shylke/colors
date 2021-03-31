@@ -21,59 +21,36 @@ Monochrome Toned | --- | 16
 
 <br>
 
-## Yellow Toned
-
-**Gold** (#FFBC2C) **Mustard** (#F1C40F)
-
-![1](https://fakeimg.pl/130x130/FFBC2C/?text=%20) ![1](https://fakeimg.pl/130x130/F1C40F/?text=%20)
-
-**Sunflower** (#F7D937) **Minion Yellow** (#F5E050) 
-
-![1](https://fakeimg.pl/130x130/F7D937/?text=%20) ![1](https://fakeimg.pl/130x130/F5E050/?text=%20)
-
-**Yellow** (#FFEE00) **Light Yellow** (#FFFF4A)
-
-![1](https://fakeimg.pl/130x130/FFEE00/?text=%20) ![1](https://fakeimg.pl/130x130/FFFF4A/?text=%20)
-
-**Lemon** (#FFFD82) (#FFF581) 
-
-![1](https://fakeimg.pl/130x130/FFFD82/?text=%20) ![1](https://fakeimg.pl/130x130/FFF581/?text=%20)
-
-**Primrose** (#E9EB7B) **Dark Primrose** (#C7C13D) 
-
-![1](https://fakeimg.pl/130x130/E9EB7B/?text=%20) ![1](https://fakeimg.pl/130x130/C7C13D/?text=%20)
-
-
 
 ## Green Toned
 
 **Lime** (#C0FF37) **Bitter Lemon** (#BCFC00)
 
-![1](https://dummyimage.com/130x130/c0ff37/c0ff37) ![1](https://dummyimage.com/130x130/bcfc00/bcfc00)
+![1](https://fakeimg.pl/130x130/C0FF37/?text=%20) ![1](https://fakeimg.pl/130x130/BCFC00/?text=%20)
 
 **Sycamore** (#7F943D) (#8AA23E)
 
-![1](https://dummyimage.com/130x130/7f943d/7f943d) ![1](https://dummyimage.com/130x130/8aa23e/8aa23e)
+![1](https://fakeimg.pl/130x130/7F943D/?text=%20) ![1](https://fakeimg.pl/130x130/8AA23E/?text=%20)
 
 **Deep Leaf** (#8FC73E) **Leaf** (#AED161)
 
-![1](https://dummyimage.com/130x130/8fc73e/8fc73e) ![1](https://dummyimage.com/130x130/aed161/aed161)
+![1](https://fakeimg.pl/130x130/8FC73E/?text=%20) ![1](https://fakeimg.pl/130x130/AED161/?text=%20)
 
 **Dewdrop** (#92FF86) **Green** (#94FD24) <!-- Oblivion's Color -->
 
-![1](https://dummyimage.com/130x130/92ff86/92ff86) ![1](https://dummyimage.com/130x130/94fd24/94fd24)
+![1](https://fakeimg.pl/130x130/92FF86/?text=%20) ![1](https://fakeimg.pl/130x130/94FD24/?text=%20)
 
 **Electric Green** (#00FF00) **Booger Green** (#6BE05F)
 
-![1](https://dummyimage.com/130x130/00ff00/00ff00) ![1](https://dummyimage.com/130x130/6be05f/6be05f)
+![1](https://fakeimg.pl/130x130/00FF00/?text=%20) ![1](https://fakeimg.pl/130x130/6BE05F/?text=%20)
 
 **Forest Green** (#47C767) **Emerald** (#2ECC71)
 
-![1](https://dummyimage.com/130x130/47c767/47c767) ![1](https://dummyimage.com/130x130/2ecc71/2ecc71)
+![1](https://fakeimg.pl/130x130/47C767/?text=%20) ![1](https://fakeimg.pl/130x130/2ECC71/?text=%20)
 
  **Dark Green** (#0F9B3E) **Dark Forest Green** (#1F8B4C)
 
-![1](https://dummyimage.com/130x130/0f9b3e/0f9b3e) ![1](https://dummyimage.com/130x130/1f8b4c/1f8b4c) 
+![1](https://fakeimg.pl/130x130/0F9B3E/?text=%20) ![1](https://fakeimg.pl/130x130/1F8B4C/?text=%20)
 
 
 
