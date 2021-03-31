@@ -14,9 +14,11 @@ Blue Toned | --- | 26
 
 ![1](https://fakeimg.pl/130x130/F0FFFF/?text=%20) ![1](https://fakeimg.pl/130x130/D1DDFF/?text=%20)
 
-**Water** (#C2E5F8) 
+**Water** (#C2E5F8) **Light Cobalt Blue** (#79A8DA) 
 
-![1](https://fakeimg.pl/130x130/C2E5F8/?text=%20)
+![1](https://fakeimg.pl/130x130/C2E5F8/?text=%20) ![1](https://fakeimg.pl/130x130/79A8DA/?text=%20)
+
+## d
 
 **Sky Blue** (#53CCFF) **Cerulean** (#56BFF7) 
 
@@ -42,9 +44,9 @@ Blue Toned | --- | 26
 
 ![1](https://fakeimg.pl/130x130/006B88/?text=%20) ![1](https://fakeimg.pl/130x130/476E8E/?text=%20)
 
-**Light Cobalt Blue** (#79A8DA) (#3498DB)
+**Light Azure** (#3498DB)
 
-![1](https://fakeimg.pl/130x130/79A8DA/?text=%20) ![1](https://fakeimg.pl/130x130/3498db/?text=%20)
+![1](https://fakeimg.pl/130x130/3498db/?text=%20)
 
 **Medium Azure** (#4B92DB) **Cobalt Blue** (#376CF3) 
 
