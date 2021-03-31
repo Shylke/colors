@@ -23,37 +23,37 @@ Monochrome Toned | --- | 16
 
 ## Red Toned
 
-**Bad Blood** (#530E0F) <!-- Grunge's Color -->  **Scarlet** (#7B1C22)
+**Bad Blood** (#530E0F) **Scarlet** (#7B1C22)
 
-![1](https://dummyimage.com/130x130/530e0f/530e0f) ![1](https://dummyimage.com/130x130/7b1c22/7b1c22)
+![1](https://fakeimg.pl/130x130/530e0f/?text=%20) ![1](https://fakeimg.pl/130x130/7B1C22/?text=%20)
 
 **Maroon** (#800000) (#800101) <!-- Reverie's Color -->
 
-![1](https://dummyimage.com/130x130/800000/800000) ![1](https://dummyimage.com/130x130/800101/800101)
+![1](https://fakeimg.pl/130x130/800000/?text=%20) ![1](https://fakeimg.pl/130x130/800101/?text=%20)
 
 **Burnt Red** (#831F18) **Terracotta** (#992D22)
 
-![1](https://dummyimage.com/130x130/831F18/831F18)  ![1](https://dummyimage.com/130x130/992d22/992d22) 
+![1](https://fakeimg.pl/130x130/831F18/?text=%20) ![1](https://fakeimg.pl/130x130/992D22/?text=%20)
 
-**Dark Red** (#CC0000) **Blood Red** (#FF0000)
+**Dark Red** (#992D22) **Blood Red** (#FF0000)
 
-![1](https://dummyimage.com/130x130/cc0000/cc0000) ![1](https://dummyimage.com/130x130/ff0000/ff0000)
+![1](https://fakeimg.pl/130x130/992D22/?text=%20) ![1](https://fakeimg.pl/130x130/ff0000/?text=%20)
 
  **Watermelon** (#FF092A) <!-- Ace's Color --> **Vermillion** (#E34234)
 
- ![1](https://dummyimage.com/130x130/ff092a/ff092a) ![1](https://dummyimage.com/130x130/e34234/e34234)
+![1](https://fakeimg.pl/130x130/FF092A/?text=%20) ![1](https://fakeimg.pl/130x130/E34234/?text=%20)
 
  **Crimson** (#D14141) **Amaranth** (#E03F54)
 
- ![1](https://dummyimage.com/130x130/d14141/d14141) ![1](https://dummyimage.com/130x130/e03f54/e03f54)
+![1](https://fakeimg.pl/130x130/D14141/?text=%20) ![1](https://fakeimg.pl/130x130/E03F54/?text=%20)
 
  **Red** (#E74C3C) **Bright Salmon** (#F35757)
 
- ![1](https://dummyimage.com/130x130/e74c3c/e74c3c) ![1](https://dummyimage.com/130x130/f35757/f35757)
+ ![1](https://fakeimg.pl/130x130/E74C3C/?text=%20) ![1](https://fakeimg.pl/130x130/F35757/?text=%20)
 
 **Crude Salmon** (#EB6161) **Salmon** (#F3785C)
 
-![1](https://dummyimage.com/130x130/eb6161/eb6161) ![1](https://dummyimage.com/130x130/f3785c/f3785c)
+![1](https://fakeimg.pl/130x130/EB6161/?text=%20) ![1](https://fakeimg.pl/130x130/F3785C/?text=%20)
 
 
 
@@ -61,27 +61,27 @@ Monochrome Toned | --- | 16
 
 **Medium Vermillion** (#D9603B) **Light Porcelain** (#F58E50)
 
-![1](https://dummyimage.com/130x130/d9603b/d9603b) ![1](https://dummyimage.com/130x130/f58e50/f58e50)
+![1](https://fakeimg.pl/130x130/D9603B/?text=%20) ![1](https://fakeimg.pl/130x130/F58E50/?text=%20)
 
 **Red Orange** (#FF3700) **Pumpkin** (#D35400)
 
-![1](https://dummyimage.com/130x130/ff3700/ff3700) ![1](https://dummyimage.com/130x130/D35400/D35400)
+![1](https://fakeimg.pl/130x130/FF3700/?text=%20) ![1](https://fakeimg.pl/130x130/D35400/?text=%20)
 
-**Deep Orange** (#FF8F0D) <!-- Summer's Color --> **Orange** (#FC7500) 
+**Deep Orange** (#FF8F0D) **Orange** (#FC7500) 
 
-![1](https://dummyimage.com/130x130/ff6f0d/ff6f0d) ![1](https://dummyimage.com/130x130/fc7500/fc7500) 
+![1](https://fakeimg.pl/130x130/FF8F0D/?text=%20) ![1](https://fakeimg.pl/130x130/FC7500/?text=%20)
 
 **Autumn** (#E67E22) **Vixen Orange** (#FF812F)  
 
-![1](https://dummyimage.com/130x130/e67e22/e67e22) ![1](https://dummyimage.com/130x130/ff812f/ff812f) 
+![1](https://fakeimg.pl/130x130/E67E22/?text=%20) ![1](https://fakeimg.pl/130x130/FF812F/?text=%20)
 
 **Light Orange** (#FD9418)
 
-![1](https://dummyimage.com/130x130/fd9418/fd9418) 
+![1](https://fakeimg.pl/130x130/FD9418/?text=%20)
 
 **Tangerine** (#FFB44E) **Honey Topaz** (#F6C57F)
 
-![1](https://dummyimage.com/130x130/ffb44e/ffb44e) ![1](https://dummyimage.com/130x130/f6c57f/f6c57f)
+![1](https://fakeimg.pl/130x130/FFB44E/?text=%20) ![1](https://fakeimg.pl/130x130/F6C57F/?text=%20)
 
 
 
