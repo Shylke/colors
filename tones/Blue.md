@@ -54,10 +54,6 @@ Blue Toned | --- | 26
 
 ![1](https://fakeimg.pl/130x130/195080/?text=%20)
 
-**Blue** (#0044EB) **Royal Azure** (#003FFF)
-
-![1](https://fakeimg.pl/130x130/0044EB/?text=%20) ![1](https://fakeimg.pl/130x130/003FFF/?text=%20)
-
 
 ## Intense Toned
 
