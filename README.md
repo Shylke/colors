@@ -12,7 +12,7 @@ Orange Toned | --- | 11
 Yellow Toned | --- | 10
 Green Toned | --- | 14
 Cyan Toned | --- | 11
-Blue Toned | --- | 24 
+Blue Toned | --- | 26 
 Indigo Toned | --- | 11
 Purple Toned | --- | 19
 Pink Toned | --- | 13
@@ -73,7 +73,7 @@ Monochrome Toned | --- | 16
 
 **Electric Blue** (#0000FF) (#0000E1) <!-- G's Color -->
 
-![1](https://fakeimg.pl/130x130/72EBAC/?text=%20) ![1](https://fakeimg.pl/130x130/72EBAC/?text=%20)
+![1](https://fakeimg.pl/130x130/0000FF/?text=%20) ![1](https://fakeimg.pl/130x130/0000E1/?text=%20)
 
 **Dark Azure** (#003399) **Deep Blue** (#0100AD) <!-- E's Color -->
 
