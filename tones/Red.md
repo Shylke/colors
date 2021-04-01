@@ -42,17 +42,9 @@ Red Toned | --- | 15
 
 ![1](https://fakeimg.pl/130x130/D14141/?text=%20)
 
-**Vermillion** (#E34234)
-
-![1](https://fakeimg.pl/130x130/E34234/?text=%20)
-
 **Amaranth** (#E03F54)
 
 ![1](https://fakeimg.pl/130x130/E03F54/?text=%20)
-
-**Red** (#E74C3C) 
-
-![1](https://fakeimg.pl/130x130/E74C3C/?text=%20)
 
 **Bright Salmon** (#F35757)
 
@@ -60,7 +52,17 @@ Red Toned | --- | 15
 
 **Crude Salmon** (#EB6161)
 
-![1](https://fakeimg.pl/130x130/EB6161/?text=%20) 
+![1](https://fakeimg.pl/130x130/EB6161/?text=%20)
+
+**Vermillion** (#E34234)
+
+![1](https://fakeimg.pl/130x130/E34234/?text=%20)
+
+**Medium Vermillion** (#E74C3C) 
+
+![1](https://fakeimg.pl/130x130/E74C3C/?text=%20)
+
+
 
 **Salmon** (#F3785C)
 
