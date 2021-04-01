@@ -34,13 +34,13 @@ Orange Toned | --- | 11
 
 ![1](https://fakeimg.pl/130x130/FF812F/?text=%20)
 
-**Orange** (#FF8F0D)  
-
-![1](https://fakeimg.pl/130x130/FF8F0D/?text=%20) 
-
 **Apricot** (#F58E50)
 
 ![1](https://fakeimg.pl/130x130/F58E50/?text=%20)
+
+**Orange** (#FF8F0D)  
+
+![1](https://fakeimg.pl/130x130/FF8F0D/?text=%20) 
 
 **Light Orange** (#FD9418)
 
