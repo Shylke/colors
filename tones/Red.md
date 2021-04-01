@@ -10,13 +10,21 @@ Red Toned | --- | 15
 
 ## Red Toned
 
-**Bad Blood** (#530E0F) **Maroon** (#800000) (#800101) <!-- H's Color -->
+**Bad Blood** (#530E0F)
 
-![1](https://fakeimg.pl/130x130/530e0f/?text=%20) ![1](https://fakeimg.pl/130x130/800000/?text=%20) ![1](https://fakeimg.pl/130x130/800101/?text=%20)
+![1](https://fakeimg.pl/130x130/530e0f/?text=%20)
 
-**Scarlet** (#7B1C22) **Burnt Red** (#831F18)
+**Maroon** (#800000) (#800101) <!-- H's Color -->
 
-![1](https://fakeimg.pl/130x130/7B1C22/?text=%20) ![1](https://fakeimg.pl/130x130/831F18/?text=%20)
+![1](https://fakeimg.pl/130x130/800000/?text=%20) ![1](https://fakeimg.pl/130x130/800101/?text=%20)
+
+**Scarlet** (#7B1C22) 
+
+![1](https://fakeimg.pl/130x130/7B1C22/?text=%20)
+
+**Burnt Red** (#831F18)
+
+ ![1](https://fakeimg.pl/130x130/831F18/?text=%20)
 
 **Terracotta** (#992D22)
 
@@ -42,12 +50,20 @@ Red Toned | --- | 15
 
 ![1](https://fakeimg.pl/130x130/E03F54/?text=%20)
 
-**Red** (#E74C3C) **Bright Salmon** (#F35757)
+**Red** (#E74C3C) 
 
-![1](https://fakeimg.pl/130x130/E74C3C/?text=%20) ![1](https://fakeimg.pl/130x130/F35757/?text=%20)
+![1](https://fakeimg.pl/130x130/E74C3C/?text=%20)
 
-**Crude Salmon** (#EB6161) **Salmon** (#F3785C)
+**Bright Salmon** (#F35757)
 
-![1](https://fakeimg.pl/130x130/EB6161/?text=%20) ![1](https://fakeimg.pl/130x130/F3785C/?text=%20)
+![1](https://fakeimg.pl/130x130/F35757/?text=%20)
+
+**Crude Salmon** (#EB6161)
+
+![1](https://fakeimg.pl/130x130/EB6161/?text=%20) 
+
+**Salmon** (#F3785C)
+
+![1](https://fakeimg.pl/130x130/F3785C/?text=%20)
 
 </div>
