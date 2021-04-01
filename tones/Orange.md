@@ -18,21 +18,21 @@ Orange Toned | --- | 11
 
 ![1](https://fakeimg.pl/130x130/D35400/?text=%20)
 
-**Medium Vermillion** (#D9603B)
+**Red Sand** (#D9603B)
 
 ![1](https://fakeimg.pl/130x130/D9603B/?text=%20) 
 
-**Deep Orange** (#FF8F0D)  
+**Autumn** (#E67E22) 
 
-![1](https://fakeimg.pl/130x130/FF8F0D/?text=%20) 
+![1](https://fakeimg.pl/130x130/E67E22/?text=%20)
 
-**Orange** (#FC7500)
+**Deep Orange** (#FC7500)
 
 ![1](https://fakeimg.pl/130x130/FC7500/?text=%20)
 
-**Autumn** (#E67E22) 
+**Orange** (#FF8F0D)  
 
-![1](https://fakeimg.pl/130x130/E67E22/?text=%20) 
+![1](https://fakeimg.pl/130x130/FF8F0D/?text=%20) 
 
 **Vixen Orange** (#FF812F)
 
