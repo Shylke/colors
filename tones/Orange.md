@@ -10,6 +10,10 @@ Orange Toned | --- | 11
 
 ## Orange Toned
 
+**Red Orange** (#FF3700)
+
+![1](https://fakeimg.pl/130x130/FF3700/?text=%20)
+
 **Medium Vermillion** (#D9603B)
 
 ![1](https://fakeimg.pl/130x130/D9603B/?text=%20) 
@@ -17,10 +21,6 @@ Orange Toned | --- | 11
 **Light Porcelain** (#F58E50)
 
 ![1](https://fakeimg.pl/130x130/F58E50/?text=%20)
-
-**Red Orange** (#FF3700)
-
-![1](https://fakeimg.pl/130x130/FF3700/?text=%20) 
 
 **Pumpkin** (#D35400)
 
@@ -46,11 +46,11 @@ Orange Toned | --- | 11
 
 ![1](https://fakeimg.pl/130x130/FD9418/?text=%20)
 
-**Tangerine** (#FFB44E) 
+**Topaz** (#FFB44E) 
 
 ![1](https://fakeimg.pl/130x130/FFB44E/?text=%20) 
 
-**Honey Topaz** (#F6C57F)
+**Honey** (#F6C57F)
 
 ![1](https://fakeimg.pl/130x130/F6C57F/?text=%20)
 
