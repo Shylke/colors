@@ -10,7 +10,7 @@ Hues | --- | Number
 Red Toned | --- | 15
 Orange Toned | --- | 11
 Yellow Toned | --- | 10
-Green Toned | --- | 14
+[Green](https://github.com/Shylke/colors/blob/master/tones/(4)%20Green.md) Toned | --- | 14
 Cyan Toned | --- | 11
 Blue Toned | --- | 25 
 Indigo Toned | --- | 11
