@@ -30,10 +30,6 @@ Green Toned | --- | 14
 
 ![](https://fakeimg.pl/130x130/AED161/?text=%20)
 
-**Dewdrop** (#92FF86)
-
-![1](https://fakeimg.pl/130x130/92FF86/?text=%20) 
-
 **Green** (#94FD24) <!--O Color-->
 
 ![](https://fakeimg.pl/130x130/94FD24/?text=%20)
@@ -41,6 +37,10 @@ Green Toned | --- | 14
 **Electric Green** (#00FF00) 
 
 ![](https://fakeimg.pl/130x130/00FF00/?text=%20)
+
+**Dewdrop** (#92FF86)
+
+![1](https://fakeimg.pl/130x130/92FF86/?text=%20) 
 
 **Booger Green** (#6BE05F)
 
