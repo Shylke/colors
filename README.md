@@ -26,15 +26,15 @@ Monochrome Toned | --- | 17
 
 **Cosmic Blue** (#2E2D88) **Industrial Blue** (#385791) 
 
-![](https://fakeimg.pl/130x130/2e2d88/?text=%20) ![](https://fakeimg.pl/130x130/F0FFFF/?text=%20) 
+![](https://fakeimg.pl/130x130/2e2d88/?text=%20) ![](https://fakeimg.pl/130x130/385791/?text=%20) 
 
 **Dark Indigo** (#48569D) **Indigo** (#4F69C6)
 
-![](https://dummyimage.com/130x130/48569D/48569D) ![](https://fakeimg.pl/130x130/F0FFFF/?text=%20)
+![](https://dummyimage.com/130x130/48569D/48569D) ![](https://fakeimg.pl/130x130/4f69c6/?text=%20)
 
 **Light Industrial Blue** (#6E79A2) **Soft Purple** (#4F6ADE)
 
-![](https://dummyimage.com/130x130/6e79a2/6e79a2) ![](https://dummyimage.com/130x130/4F6ADE/4F6ADE)
+![](https://fakeimg.pl/130x130/6e79a2/?text=%20) ![](https://fakeimg.pl/130x130/4f6ade/?text=%20)
 
 **Washed Denim** (#678BBD) **Soft Blue** (#7884FF) <!--A color-->
 
@@ -54,47 +54,47 @@ Monochrome Toned | --- | 17
 
 **Dusty Purple** (#6C6BBB) **Purple** (#7E58DF) 
 
-![1](https://dummyimage.com/130x130/6C6BBB/6C6BBB) ![1](https://dummyimage.com/130x130/7E58DF/7E58DF) 
+![](https://fakeimg.pl/130x130/6c68bbb/?text=%20) ![](https://fakeimg.pl/130x130/7e58df/?text=%20) 
 
-**Electric Purple** (#720FF) (#7F00FF)
+**Electric Purple** (#7200FF) (#7F00FF)
 
-![1](https://dummyimage.com/130x130/7200ff/7200ff) ![1](https://dummyimage.com/130x130/7F00FF/7F00FF)  
+![](https://fakeimg.pl/130x130/7200ff/?text=%20) ![](https://fakeimg.pl/130x130/7f00ff/?text=%20)  
 
  **Electric Violet** (#9601FF) (#9400FF) 
 
-![1](https://dummyimage.com/130x130/9601ff/9601ff) ![1](https://dummyimage.com/130x130/9400ff/9400ff) 
+![](https://fakeimg.pl/130x130/9601ff/?text=%20) ![](https://fakeimg.pl/130x130/9400ff/?text=%20) 
 
 **Soft Purple** (#887CD6)
 
-![1](https://dummyimage.com/130x130/887CD6/887CD6) 
+![](https://fakeimg.pl/130x130/887cd6/?text=%20) 
 
 **Deep Lavender** (#755FA4) **Dark Grape** (#57456A)
 
-![1](https://dummyimage.com/130x130/755FA4/755FA4) ![1](https://dummyimage.com/130x130/57456A/57456A)
+![](https://fakeimg.pl/130x130/755fa4/?text=%20) ![](https://fakeimg.pl/130x130/57456a/?text=%20)
 
 **Slate Grape** (#7D77A0) **Lavender** (#A573E6) 
 
-![1](https://dummyimage.com/130x130/7D77A0/7D77A0) ![1](https://dummyimage.com/130x130/A573E6/A573E6)
+![](https://fakeimg.pl/130x130/7d77a0/?text=%20) ![](https://fakeimg.pl/130x130/a573e6/?text=%20)
  
 **Light Lavender** (#AC84FA) **Grape** (#9263B1) 
 
-![1](https://dummyimage.com/130x130/ac84fa/ac84fa) ![1](https://dummyimage.com/130x130/9263B1/9263B1) 
+![](https://fakeimg.pl/130x130/ac84fa/?text=%20) ![](https://fakeimg.pl/130x130/9263b1/?text=%20) 
 
 **Violet** (#71368A) **Light Violet** (#9B59B6)
 
-![1](https://dummyimage.com/130x130/71368A/71368A) ![1](https://dummyimage.com/130x130/9b59b6/9b59b6) 
+![](hhttps://fakeimg.pl/130x130/71368a/?text=%20) ![](https://fakeimg.pl/130x130/9b59b6/?text=%20) 
 
 **Dark Plum** (#550066) **Eminence** (#702E71)
 
-![1](https://dummyimage.com/130x130/550066/550066) ![1](https://dummyimage.com/130x130/702E71/702E71)
+![](https://fakeimg.pl/130x130/550066/?text=%20) ![](https://fakeimg.pl/130x130/720e71/?text=%20)
 
-**Plum** (#921A8F) <!-- Bl's Color --> **Bright Mauve** (#CD84FC)
+**Plum** (#921A8F) <!--Bl Color--> **Bright Mauve** (#CD84FC)
 
-![1](https://dummyimage.com/130x130/921a8f/921a8f) ![1](https://dummyimage.com/130x130/cd84fc/cd84fc)
+![](https://fakeimg.pl/130x130/921a8f/?text=%20) ![](https://fakeimg.pl/130x130/cd84fc/?text=%20)
 
 **Dusty Mauve** (#8B6184) **Mauve** (#E0B0FF)
 
-![1](https://dummyimage.com/130x130/8B6184/8B6184) ![1](https://dummyimage.com/130x130/E0B0FF/E0B0FF)
+![](https://fakeimg.pl/130x130/8b6184/?text=%20) ![](https://fakeimg.pl/130x130/e0b0ff/?text=%20)
 
 
 
