@@ -60,7 +60,7 @@ Monochrome Toned | --- | 17
 
 ![](https://fakeimg.pl/130x130/7200ff/?text=%20) ![](https://fakeimg.pl/130x130/7f00ff/?text=%20)  
 
- **Electric Violet** (#9601FF) (#9400FF) 
+**Electric Violet** (#9601FF) (#9400FF) 
 
 ![](https://fakeimg.pl/130x130/9601ff/?text=%20) ![](https://fakeimg.pl/130x130/9400ff/?text=%20) 
 
@@ -78,11 +78,12 @@ Monochrome Toned | --- | 17
  
 **Light Lavender** (#AC84FA) **Grape** (#9263B1) 
 
-![](https://fakeimg.pl/130x130/ac84fa/?text=%20) ![](https://fakeimg.pl/130x130/9263b1/?text=%20) 
+![](https://fakeimg.pl/130x130/AC84FA/?text=%20) ![](https://fakeimg.pl/130x130/9263B1/?text=%20) 
 
 **Violet** (#71368A) **Light Violet** (#9B59B6)
 
-![](hhttps://fakeimg.pl/130x130/71368A/?text=%20) ![](https://fakeimg.pl/130x130/9B59B6/?text=%20) 
+![1](hhttps://fakeimg.pl/130x130/71368A/?text=%20)
+![1](https://fakeimg.pl/130x130/9B59B6/?text=%20) 
 
 **Dark Plum** (#550066) **Eminence** (#702E71)
 
@@ -138,9 +139,7 @@ Monochrome Toned | --- | 17
 
 **Coffee** (#C7AE99) **Cappucino** (#C0A371) <!--D Color--> 
 
-![1](https://fakeimg.pl/130x130/C7AE99/?text=%20) 
-
-![1](https://fakeimg.pl/130x130/COA371/?text=%20)
+![1](https://fakeimg.pl/130x130/C7AE99/?text=%20) ![1](https://fakeimg.pl/130x130/C0A371/?text=%20)
 
 **Desert** (#D8AB51) **Desert Rose** (#c0836E)
  
