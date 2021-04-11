@@ -82,8 +82,7 @@ Monochrome Toned | --- | 17
 
 **Violet** (#71368A) **Light Violet** (#9B59B6)
 
-![1](hhttps://fakeimg.pl/130x130/71368A/?text=%20)
-![1](https://fakeimg.pl/130x130/9B59B6/?text=%20) 
+![1](https://fakeimg.pl/130x130/71368A/?text=%20) ![1](https://fakeimg.pl/130x130/9B59B6/?text=%20) 
 
 **Dark Plum** (#550066) **Eminence** (#702E71)
 
