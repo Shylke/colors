@@ -4,7 +4,7 @@
 
 Hues | --- | Number
 --- | --- | ---
-Green Toned | --- | 14
+Indigo Toned | --- | 11
 
 <br>
 
