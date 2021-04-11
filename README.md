@@ -26,27 +26,27 @@ Monochrome Toned | --- | 17
 
 **Cosmic Blue** (#2E2D88) **Industrial Blue** (#385791) 
 
-![1](https://dummyimage.com/130x130/2E2D88/2E2D88) ![1](https://dummyimage.com/130x130/385791/385791) 
+![](https://fakeimg.pl/130x130/2e2d88/?text=%20) ![](https://fakeimg.pl/130x130/F0FFFF/?text=%20) 
 
 **Dark Indigo** (#48569D) **Indigo** (#4F69C6)
 
-![1](https://dummyimage.com/130x130/48569D/48569D) ![1](https://dummyimage.com/130x130/4F69C6/4F69C6)
+![](https://dummyimage.com/130x130/48569D/48569D) ![](https://fakeimg.pl/130x130/F0FFFF/?text=%20)
 
 **Light Industrial Blue** (#6E79A2) **Soft Purple** (#4F6ADE)
 
-![1](https://dummyimage.com/130x130/6e79a2/6e79a2) ![1](https://dummyimage.com/130x130/4F6ADE/4F6ADE)
+![](https://dummyimage.com/130x130/6e79a2/6e79a2) ![](https://dummyimage.com/130x130/4F6ADE/4F6ADE)
 
-**Washed Denim** (#678BBD) **Soft Blue** (#7884FF) <!-- A's color-->
+**Washed Denim** (#678BBD) **Soft Blue** (#7884FF) <!--A color-->
 
-![1](https://dummyimage.com/130x130/678BBD/678BBD) ![1](https://dummyimage.com/130x130/7884ff/7884ff) 
+![](https://fakeimg.pl/130x130/678bbd/?text=%20) ![](https://fakeimg.pl/130x130/7884ff/?text=%20) 
 
 **Softer Purple** (#637BBF) **Blurple** (#7086D6)
 
-![1](https://dummyimage.com/130x130/637BBF/637BBF) ![1](https://dummyimage.com/130x130/7086D6/7086D6)
+![](https://fakeimg.pl/130x130/637bbf/?text=%20) ![](https://fakeimg.pl/130x130/7086d6/?text=%20)
 
 **Periwinkle** (#CCCCFF)
 
-![1](https://dummyimage.com/130x130/CCCCFF/CCCCFF)
+![](https://fakeimg.pl/130x130/ccccff/?text=%20)
 
 
 
