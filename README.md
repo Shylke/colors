@@ -12,12 +12,12 @@ Orange Toned | --- | 11
 Yellow Toned | --- | 10
 Green Toned | --- | 14
 Cyan Toned | --- | 11
-Blue Toned | --- | 26 
+Blue Toned | --- | 25 
 Indigo Toned | --- | 11
 Purple Toned | --- | 19
 Pink Toned | --- | 13
 Brown Toned | --- | 14 
-Monochrome Toned | --- | 16
+Monochrome Toned | --- | 17
 
 <br>
 
@@ -166,38 +166,38 @@ Monochrome Toned | --- | 16
 
 **Pure White** (#FFFFFF) (#F0FFFF)
 
-![](https://dummyimage.com/130x130/ffffff/ffffff) ![](https://fakeimg.pl/130x130/F0FFFF/?text=%20)
+![](https://fakeimg.pl/130x130/FFFFFF/?text=%20) ![](https://fakeimg.pl/130x130/F0FFFF/?text=%20)
 
 **Cloud** (#ECF0F1)
 
-![1](https://dummyimage.com/130x130/ecf0f1/ecf0f1) 
+![](hhttps://fakeimg.pl/130x130/F0FFFF/?text=%20) 
 
 **Shining Silver** (#F0F0F0) **Light Grey** (#D2D2D2) <!-- V's Color -->
 
-![1](https://dummyimage.com/130x130/f0f0f0/f0f0f0) ![1](https://dummyimage.com/130x130/d2d2d2/d2d2d2) 
+![](https://fakeimg.pl/130x130/F0F0F0/?text=%20) ![](https://fakeimg.pl/130x130/d2d2d2/?text=%20) 
 
  **Silver** (#BDC3C7) (#BBC6CC) 
 
-![1](https://dummyimage.com/130x130/bdc3c7/bdc3c7) ![1](https://dummyimage.com/130x130/bbc6cc/bbc6cc) 
+![](https://fakeimg.pl/130x130/bdc3c7/?text=%20) ![](https://fakeimg.pl/130x130/bbc6cc/?text=%20) 
 
 **Metal** (#95A5A6) **Grey** (#979C9F) 
 
-![1](https://dummyimage.com/130x130/95a5a6/95a5a6) ![1](https://dummyimage.com/130x130/979c9f/979c9f) 
+![](https://fakeimg.pl/130x130/95a5a6/?text=%20) ![](https://fakeimg.pl/130x130/F0FFFF/?text=%20) 
 
 **Dark Grey** (#757575) 
 
-![1](https://dummyimage.com/130x130/757575/757575) 
+![](https://fakeimg.pl/130x130/757575/?text=%20) 
 
 **Dark Metal** (#4C6876) (#607D8B) (#546E7A)
 
-![1](https://dummyimage.com/130x130/4c6876/4c6876) ![1](https://dummyimage.com/130x130/607d8b/607d8b) ![1](https://dummyimage.com/130x130/546e7a/546e7a)
+![](https://fakeimg.pl/130x130/4c6876/?text=%20) ![](https://fakeimg.pl/130x130/607d8b/?text=%20) ![](https://fakeimg.pl/130x130/546e7a/?text=%20)
 
 **Coal** (#1F1F1F) <!-- E's Color --> (#181818) 
 
-![1](https://dummyimage.com/130x130/1f1f1f/1f1f1f) ![1](https://dummyimage.com/130x130/181818/181818) 
+![](https://fakeimg.pl/130x130/1f1f1f/?text=%20) ![](https://fakeimg.pl/130x130/181818/?text=%20) 
 
 **Jet Black** (#101222) <!-- Shylke's Color --> **Pure Black** (#000000) <!-- Da's Color -->
 
-![1](https://dummyimage.com/130x130/101222/101222) ![1](https://dummyimage.com/130x130/000000/000000)
+![](https://fakeimg.pl/130x130/101222/?text=%20) ![](https://fakeimg.pl/130x130/000000/?text=%20)
 
 </div>
