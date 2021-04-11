@@ -170,7 +170,7 @@ Monochrome Toned | --- | 17
 
 **Cloud** (#ECF0F1)
 
-![](hhttps://fakeimg.pl/130x130/F0FFFF/?text=%20) 
+![](https://fakeimg.pl/130x130/F0FFFF/?text=%20) 
 
 **Shining Silver** (#F0F0F0) **Light Grey** (#D2D2D2) <!--V Color-->
 
