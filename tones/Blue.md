@@ -41,7 +41,7 @@ Blue Toned | --- | 25
 
 ![](https://fakeimg.pl/130x130/3182A0/?text=%20) ![](https://fakeimg.pl/130x130/276580/?text=%20)
 
-**Dark Metallic Blue** (#006B88) <!-- C's Color --> **Kashmir Blue** (#476E8E)
+**Dark Metallic Blue** (#006B88) <!--C Color--> **Kashmir Blue** (#476E8E)
 
 ![](https://fakeimg.pl/130x130/006B88/?text=%20) ![](https://fakeimg.pl/130x130/476E8E/?text=%20)
 
