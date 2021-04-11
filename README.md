@@ -164,9 +164,13 @@ Monochrome Toned | --- | 16
 
 ## Monochrome Toned
 
-**Pure White** (#FFFFFF) **Cloud** (#ECF0F1)
+**Pure White** (#FFFFFF) (#F0FFFF)
 
-![1](https://dummyimage.com/130x130/ffffff/ffffff) ![1](https://dummyimage.com/130x130/ecf0f1/ecf0f1) 
+![](https://dummyimage.com/130x130/ffffff/ffffff) ![](https://fakeimg.pl/130x130/F0FFFF/?text=%20)
+
+**Cloud** (#ECF0F1)
+
+![1](https://dummyimage.com/130x130/ecf0f1/ecf0f1) 
 
 **Shining Silver** (#F0F0F0) **Light Grey** (#D2D2D2) <!-- V's Color -->
 
