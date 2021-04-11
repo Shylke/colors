@@ -4,16 +4,16 @@
 
 Hues | --- | Number
 --- | --- | ---
-Blue Toned | --- | 26
+Blue Toned | --- | 25
 --- | --- | ---
 
 <br>
 
 ## Light Toned
 
-**Pale Azure** (#F0FFFF) **Pond** (#D1DDFF) 
+**Pond** (#D1DDFF) 
 
-![1](https://fakeimg.pl/130x130/F0FFFF/?text=%20) ![1](https://fakeimg.pl/130x130/D1DDFF/?text=%20)
+![1](https://fakeimg.pl/130x130/D1DDFF/?text=%20)
 
 **Water** (#C2E5F8) **Light Cobalt Blue** (#79A8DA) 
 
