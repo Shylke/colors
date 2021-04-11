@@ -54,7 +54,7 @@ Monochrome Toned | --- | 17
 
 **Dusty Purple** (#6C6BBB) **Purple** (#7E58DF) 
 
-![](https://fakeimg.pl/130x130/6c68bbb/?text=%20) ![](https://fakeimg.pl/130x130/7e58df/?text=%20) 
+![](https://fakeimg.pl/130x130/6c6bbb/?text=%20) ![](https://fakeimg.pl/130x130/7e58df/?text=%20) 
 
 **Electric Purple** (#7200FF) (#7F00FF)
 
