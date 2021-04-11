@@ -1,3 +1,13 @@
+<div align=center>
+
+# Colors
+
+Hues | --- | Number
+--- | --- | ---
+Green Toned | --- | 14
+
+<br>
+
 ## Indigo Toned
 
 **Cosmic Blue** (#2E2D88) **Industrial Blue** (#385791) 
@@ -23,3 +33,5 @@
 **Periwinkle** (#CCCCFF)
 
 ![](https://fakeimg.pl/130x130/ccccff/?text=%20)
+
+</div>
