@@ -1,3 +1,13 @@
+<div align=center>
+
+# Colors
+
+Hues | --- | Number
+--- | --- | ---
+Monochrome Toned | --- | 17
+
+<br>
+
 ## Monochrome Toned
 
 **Pure White** (#FFFFFF) (#F0FFFF)
