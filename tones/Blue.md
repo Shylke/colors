@@ -5,6 +5,7 @@
 Hues | --- | Number
 --- | --- | ---
 Blue Toned | --- | 26
+--- | --- | ---
 
 <br>
 
@@ -18,7 +19,7 @@ Blue Toned | --- | 26
 
 ![1](https://fakeimg.pl/130x130/C2E5F8/?text=%20) ![1](https://fakeimg.pl/130x130/79A8DA/?text=%20)
 
-## d
+## Bright Toned
 
 **Sky Blue** (#53CCFF) **Cerulean** (#56BFF7) 
 
