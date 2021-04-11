@@ -138,7 +138,9 @@ Monochrome Toned | --- | 17
 
 **Coffee** (#C7AE99) **Cappucino** (#C0A371) <!--D Color--> 
 
-![](https://fakeimg.pl/130x130/c7ae99/?text=%20) ![](https://fakeimg.pl/130x130/coa371/?text=%20)
+![](https://fakeimg.pl/130x130/C7AE99/?text=%20) 
+
+![](https://fakeimg.pl/130x130/COA371/?text=%20)
 
 **Desert** (#D8AB51) **Desert Rose** (#c0836E)
  
