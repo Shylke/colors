@@ -7,11 +7,11 @@ Just a simple list that helps me keep track of color hexes. Currently there are 
 
 Hues | --- | Number
 --- | --- | ---
-Red Toned | --- | 15
-Orange Toned | --- | 11
-Yellow Toned | --- | 10
+[Red](https://github.com/Shylke/colors/blob/master/tones/(1)%20Red.md) Toned | --- | 15
+[Orange](https://github.com/Shylke/colors/blob/master/tones/(2)%20Orange.md) Toned | --- | 11
+[Yellow](https://github.com/Shylke/colors/blob/master/tones/(3)%20Yellow.md) Toned | --- | 10
 [Green](https://github.com/Shylke/colors/blob/master/tones/(4)%20Green.md) Toned | --- | 14
-Cyan Toned | --- | 11
+[Cyan](https://github.com/Shylke/colors/blob/master/tones/(5)%20Cyan.md) Toned | --- | 11
 Blue Toned | --- | 25 
 Indigo Toned | --- | 11
 Purple Toned | --- | 19
