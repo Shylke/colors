@@ -26,14 +26,16 @@ Cyan Toned | --- | 12
 
 ![](https://fakeimg.pl/130x130/11806A/?text=%20)
 
-**Teal** (#50B5A1) **Dark Teal** (#5ABDA5)
+**Teal** (#50B5A1)
 
 ![](https://fakeimg.pl/130x130/50B5A1/?text=%20)
 
 **Dark Teal** (#5ABDA5)
+
 ![](https://fakeimg.pl/130x130/5ABDA5/?text=%20)
 
 **Torquoise** (#0CC1AD) 
+
 ![](https://fakeimg.pl/130x130/0CC1AD/?text=%20) 
 
 **Dark Torquoise** (#08736F)
